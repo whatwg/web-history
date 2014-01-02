@@ -138,6 +138,11 @@
 - [Client-side local storage](http://www.whatwg.org/specs/web-apps/2005-09-01/)
   first specified, as part of Web Applications 1.0.
 
+- [del.icio.us begins providing a REST API that makes data available in JSON](http://inkdroid.org/journal/2005/09/21/delicious-json/);
+  within next three years, Flickr, Yahoo, Google, and most other major
+  providers of Web-based services begin to provide APIs that expose data
+  formatted in JSON.
+
 - [What Is Web 2.0](http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html)
   article by Tim O'Reilly. Subsequent discussions of the term
   <i>Web 2.0</i> often cite this article; excerpt:
@@ -155,6 +160,7 @@
   Working Groups chartered at the launch of the W3C
   [Rich Web Client Activity](http://www.w3.org/News/2005#x200501115c).
 
+
 ## 2006-01
 
 - [Firebug](https://addons.mozilla.org/en-US/firefox/addon/firebug/versions/?page=5#version-0.2)
@@ -165,6 +171,12 @@
   for more than 25% of all mobile Web-browsing traffic -- at its peak usage in
   early 2010, for more than 40% of all mobile Web-browsing traffic -- though
   after its usage peaks, it will gradually drop until it reaches less than 5%.
+
+- [JSON Internet Draft published](http://ietfreport.isoc.org/all-ids/draft-crockford-jsonorg-json-00.txt)
+  by Doug Crockford; however, it had already been documented by Crockford
+  elsewhere going back to at least late 2002, and a number of major
+  Web-based services had already started to provide APIs that exposed data
+  formatted in JSON.
 
 ## 2006-02
 
@@ -199,6 +211,7 @@
   namespaces all at once didn't work... The plan is to charter a completely new
   HTML group. Unlike the previous one, this one will be chartered to do
   incremental improvements to HTML, as also in parallel xHTML.</i>
+
 
 ## 2006-11
 
