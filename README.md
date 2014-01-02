@@ -12,7 +12,7 @@
 ## 2004-02
 
 - [Safari 1.2](http://weblogs.mozillazine.org/hyatt/archives/2004_02.html#004874)
-  released; first version of Safari with XMLHttpRequest support
+  released; first version of Safari with XMLHttpRequest support.
 
 - [Flickr launched](http://en.wikipedia.org/wiki/Flickr); making
   innovative use of asynchronous scripting/Ajax mechanisms in its user
@@ -38,7 +38,7 @@
   in invitation-only beta.
 
 - [Web Applications 1.0](http://www.hixie.ch/specs/html/apps/web-apps-1);
-  first public draft of what will eventually become HTML5
+  first public draft of what will eventually become the HTML5 spec.
 
 ## 2004-05
 
@@ -82,12 +82,12 @@
 
 - [First public release](http://snapshot.opera.com/windows/w760p1.html)
   of an Opera build with with some degree of XMLHttpRequest support (v7.60
-  Technical Preview for Windows)
+  Technical Preview for Windows).
 
 ## 2004-10
 
 - [Google Suggest launched](http://labs.google.com/suggestfaq.html)
-  in beta
+  in beta.
 
 - [Web 2.0 Conference](http://web.archive.org/web/20041001091530/www.web2con.com/pub/w/32/program.html)
   first takes place in San Francisco, eventually causing the term <i>Web 2.0</i>
@@ -108,15 +108,15 @@
   Opera, and Safari).
 
 - [Ajax: A New Approach to Web Applications](http://www.adaptivepath.com/ideas/essays/archives/000385.php)
-  by Jesse James Garrett (coining the term <i>Ajax</i>)
+  by Jesse James Garrett (coining the term <i>Ajax</i>).
 
 ## 2005-04
 
 - [Opera 8](http://en.wikipedia.org/wiki/History_of_the_Opera_web_browser#Version_8)
-  released; first release version of Opera with (limited) XMLHttpRequest support
+  released; first release version of Opera with (limited) XMLHttpRequest support.
 
 - [Web Forms 2.0](http://www.w3.org/Submission/2005/SUBM-web-forms2-20050411/)
-  published as a W3C Member Submission
+  published as a W3C Member Submission.
 
 ## 2005-09
 
@@ -134,7 +134,7 @@
 - [Web API](http://www.w3.org/2006/webapi/) and
   [Web Application Formats](http://www.w3.org/2006/appformats/)
   Working Groups chartered at the launch of the W3C
-  [Rich Web Client Activity](http://www.w3.org/News/2005#x200501115c)
+  [Rich Web Client Activity](http://www.w3.org/News/2005#x200501115c).
 
 ## 2006-01
 
@@ -145,12 +145,12 @@
   released; during the next five years, it will end up consistently accounting
   for more than 25% of all mobile Web-browsing traffic -- at its peak usage in
   early 2010, for more than 40% of all mobile Web-browsing traffic -- though
-  after its usage peaks, it will gradually drop until it reaches less than 5%
+  after its usage peaks, it will gradually drop until it reaches less than 5%.
 
 ## 2006-08
 
 - [Web Forms 2.0 First Public Working Draft](http://www.w3.org/TR/2006/WD-web-forms-2-20060821/)
-  published by W3C Web Application Formats Working Group
+  published by W3C Web Application Formats Working Group.
 
 - [SVG Tiny 1.2 Candidate Recommendation](http://www.w3.org/TR/SVGMobile12/)
   published.
@@ -160,7 +160,7 @@
 ## 2006-10
 
 - [Microsoft Internet Explorer version 7](http://en.wikipedia.org/wiki/Internet_Explorer#Version_7)
-  released with CSS and W3C DOM improvements -- five years after the realease of IE6.
+  released with CSS and DOM improvements -- five years after the release of IE6.
 - [Reinventing HTML](http://dig.csail.mit.edu/breadcrumbs/node/166)
   posting by Tim Berners-Lee:
   <i>Some things are clearer with hindsight of several years. It is necessary to
@@ -199,8 +199,8 @@
 - [iPhone](http://en.wikipedia.org/wiki/History_of_the_iPhone#World_timeline)
   first released in the US; it includes a mobile version of Safari that will
   eventually end up consistently accounting for more 50% of all mobile
-  Web-browsing traffic.
+  Web-browsing traffic (reaching a peak during 2012 of around 66%).
 
 ## 2008-01
 
-- [First W3C Working Draft of HTML5 published](http://www.w3.org/News/2008.html#entry-6935)
+- [First W3C Working Draft of HTML5 published](http://www.w3.org/News/2008.html#entry-6935).
