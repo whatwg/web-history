@@ -94,8 +94,8 @@
 
 ## 2004-09
 
-[HTML `canvas` element first specified](http://web.archive.org/web/20041009144718/http://whatwg.org/specs/web-apps/current-work/)
-as part of Web Applications 1.0
+- [HTML `canvas` element first specified](http://web.archive.org/web/20041009144718/http://whatwg.org/specs/web-apps/current-work/),
+  as part of Web Applications 1.0.
 
 ## 2004-10
 
@@ -123,6 +123,11 @@ as part of Web Applications 1.0
 - [Ajax: A New Approach to Web Applications](http://www.adaptivepath.com/ideas/essays/archives/000385.php)
   by Jesse James Garrett (coining the term <i>Ajax</i>).
 
+## 2005-03
+
+- [Cross-document messaging (`postMessage`)](http://web.archive.org/web/20050301091946/http://whatwg.org/specs/web-apps/current-work/)
+  first specified, as part of Web Applications 1.0.
+
 ## 2005-04
 
 - [Web Forms 2.0](http://www.w3.org/Submission/2005/SUBM-web-forms2-20050411/)
@@ -134,8 +139,14 @@ as part of Web Applications 1.0
 - [Opera 8](http://en.wikipedia.org/wiki/History_of_the_Opera_web_browser#Version_8)
   released; first release version of Opera with (limited) XMLHttpRequest support.
 
+## 2005-07
+
+- [`<!DOCTYPE html>` (HTML5 doctype) introduced](http://web.archive.org/web/20050701075402/http://www.whatwg.org/specs/web-apps/current-work/)
 
 ## 2005-09
+
+- [Client-side local storage](http://www.whatwg.org/specs/web-apps/2005-09-01/)
+  first specified, as part of Web Applications 1.0.
 
 - [What Is Web 2.0](http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html)
   article by Tim O'Reilly. Subsequent discussions of the term
@@ -145,6 +156,7 @@ as part of Web Applications 1.0
   applications such as Flickr [...] We're entering an unprecedented period of
   user interface innovation, as web developers are finally able to build web
   applications as rich as local PC-based applications.</i>
+
 
 ## 2005-11
 
@@ -163,6 +175,11 @@ as part of Web Applications 1.0
   for more than 25% of all mobile Web-browsing traffic -- at its peak usage in
   early 2010, for more than 40% of all mobile Web-browsing traffic -- though
   after its usage peaks, it will gradually drop until it reaches less than 5%.
+
+## 2006-02
+
+- [HTML parsing algorithm](http://web.archive.org/web/20060202011253/http://whatwg.org/specs/web-apps/current-work/)
+  first specified, as part of Web Applications 1.0.
 
 ## 2006-08
 
@@ -227,6 +244,11 @@ as part of Web Applications 1.0
   first released; it includes a mobile version of Safari that will
   eventually end up consistently accounting for more 50% of all mobile
   Web-browsing traffic (reaching a peak during 2012 of around 66%).
+
+## 2007-10
+
+- [HTML "offline Web applications"](http://html5.org/tools/web-apps-tracker?from=848&to=1115)
+  (the `applicationCache` interface, <i>aka</i> appCache)
 
 ## 2008-01
 
