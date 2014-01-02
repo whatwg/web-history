@@ -24,11 +24,12 @@
   with membership initially restricted to students of Harvard University.
 
 - [Flickr launched](http://en.wikipedia.org/wiki/Flickr); making
-  innovative use of XMLHttpRequest to drive its user interface, adding
+  innovative use of XMLHttpRequest and client-side browser technologies to
+  drive its user interface, adding
   ["tagging" features inspired by del.icio.us](http://en.wikipedia.org/wiki/Tag_%28metadata%29#History),
   and eventually moving to provide APIs to expose Flickr for data using in
   other sites and in modern Web applicationss, it will go on to be often
-  cited as a key example of a "Web 2.0" site.
+  cited as a key example of a "Web 2.0" site/service.
 
 ## 2004-03
 
