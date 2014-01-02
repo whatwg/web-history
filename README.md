@@ -253,6 +253,11 @@
   IE4 in 1997 -- and the feature had actually been part of the CSS2.0
   Recommendation published in 1998.)
 
+- [Futhark JavaScript engine released in beta](http://my.opera.com/desktopteam/blog/2007/10/25/opera-9-5-beta-released)
+  as part of Opera 9.5; for a time it will be the fastest JavaScript engine
+  on the market, and help to initiate a JavaScript-engine performance race
+  among browser projects, starting in mid-2008.
+
 ## 2008-01
 
 - [First W3C Working Draft of HTML5 published](http://www.w3.org/News/2008.html#entry-6935).
@@ -261,6 +266,13 @@
 
 - [Acid3](http://en.wikipedia.org/wiki/Acid3) published as a means to test
   the level of standards conformance in Web browsers.
+
+## 2008-06
+
+- [SquirrelFish JavaScript engine announced](https://www.webkit.org/blog/189/announcing-squirrelfish/)
+  by the Apple Safari team (an incremental rewrite of the "JavaScriptCore"
+  engine to turn it into a bytecode interpreter, resulting in large
+  performance improvements)
 
 ## 2008-07
 
