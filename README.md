@@ -199,6 +199,10 @@
 - [HTML parsing algorithm](http://web.archive.org/web/20060202011253/http://whatwg.org/specs/web-apps/current-work/)
   first specified, as part of Web Applications 1.0.
 
+## 2006-07
+
+- [Twitter launched](http://techcrunch.com/2006/07/15/is-twttr-interesting/)
+
 ## 2006-08
 
 - [Web Forms 2.0 First Public Working Draft](http://www.w3.org/TR/2006/WD-web-forms-2-20060821/)
