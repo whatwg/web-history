@@ -23,9 +23,11 @@
   with membership initially restricted to students of Harvard University.
 
 - [Flickr launched](http://en.wikipedia.org/wiki/Flickr); making
-  innovative use of asynchronous scripting/Ajax mechanisms in its user
-  interface, it will go on to be often cited as an example later in "Web
-  2.0" discussions.
+  innovative use of XMLHttpRequest to drive its user interface, adding
+  "tagging" features inspired by del.icio.us, and eventually moving to
+  provide APIs to expose Flickr for data using in other sites and Web
+  aps, it will go on to be often cited as a key example of a "Web 2.0"
+  application.
 
 ## 2004-03
 
@@ -139,7 +141,7 @@
   first specified, as part of Web Applications 1.0.
 
 - [del.icio.us begins providing a REST API that makes data available in JSON](http://inkdroid.org/journal/2005/09/21/delicious-json/);
-  within next three years, Flickr, Yahoo, Google, and most other major
+  within the next three years, Flickr, Yahoo, Google, and most other major
   providers of Web-based services begin to provide APIs that expose data
   formatted in JSON.
 
@@ -312,6 +314,7 @@
 
 - [Steve Jobs "Thoughts on Flash"](http://www.apple.com/hotnews/thoughts-on-flash/);
   excerpt:
+
 > the mobile era is about low power devices, touch interfaces and open web
 > standards – all areas where Flash falls short‥. Rather than use Flash,
 > Apple has adopted HTML5, CSS and JavaScript – all open standards...
