@@ -82,11 +82,20 @@
   ensure interoperability even in the face of documents that do not comply to
   the letter of the specifications.</i>
 
+## 2004-07
+
+[HTML `canvas` element introduced by Apple](http://ln.hixie.ch/?start=1089635050&count=1)
+
 ## 2004-08
 
 - [First public release](http://snapshot.opera.com/windows/w760p1.html)
   of an Opera build with with some degree of XMLHttpRequest support (v7.60
   Technical Preview for Windows).
+
+## 2004-09
+
+[HTML `canvas` element first specified](http://web.archive.org/web/20041009144718/http://whatwg.org/specs/web-apps/current-work/)
+as part of Web Applications 1.0
 
 ## 2004-10
 
@@ -203,6 +212,8 @@
   produce] a language evolved from HTML4 for describing the semantics of
   documents and applications on the World Wide Web.</i>
 
+- [`video` and `audio` elements added to the HTML spec](http://html5.org/r/394-699)
+
 ## 2007-05
 
 - [Google Gears](http://gearsblog.blogspot.com/2007/05/posted-by-aaron-boodman-and-erik.html)
@@ -226,6 +237,11 @@
 - [Acid3](http://en.wikipedia.org/wiki/Acid3) published as a means to test
   the level of standards conformance in Web browsers.
 
+## 2008-07
+
+- [Web Sockets and Web Workers](http://html5.org/tools/web-apps-tracker?from=1835&to=1968)
+  first specified.
+
 ## 2009-03
 
 - [Internet Explorer version 8](http://en.wikipedia.org/wiki/Internet_Explorer#Windows_Internet_Explorer_8)
@@ -240,5 +256,5 @@
 ## 2011-03
 
 - [Internet Explorer version 9](http://en.wikipedia.org/wiki/Internet_Explorer_9)
-  released, with vastly improved standards support; among other things, it
-  adds support for SVG and the HTML `canvas` and `video` elements.
+  released, with vastly improved standards support (among other things, it
+  adds support for SVG and the HTML `canvas` and `video` elements).
