@@ -130,8 +130,8 @@
 ## 2005-04
 
 - [The Web Platform - Browsers and Applications](http://www.w3.org/2005/Talks/0513-webplatform/)
-  talk presented by Dean Jackson at WWW2005, will the goals of the "Web
-  Platform" outlined as:
+  talk presented by Dean Jackson in the W3C track at WWW2005, will the
+  goals of the "Web Platform" outlined as:
 
   * To provide a better programming environment for the Web (with new
     interfaces).
