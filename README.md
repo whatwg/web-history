@@ -130,10 +130,16 @@
 ## 2005-04
 
 - ["The Web Platform - Browsers and Applications"](http://www.w3.org/2005/Talks/0513-webplatform/)
-  talk presented by Dean Jackson at WWW2005; during the rest of 2005 and
-  after, the term "the Web Platform" will see increasing use as a common
-  label for the set of client-side browser technologies used for building
-  Web applications.
+  talk presented by Dean Jackson at WWW2005, will goals of the "Web
+  Platform" outlined as:
+
+  * To (better) enable the Web as an application platform (on all devices).
+  * To help users by requiring support for standards in the browser.
+  * To give developers a better environment.
+
+  During the rest of 2005 and after, the term "the Web Platform" will see
+  increasing use as a common label for the set of client-side browser
+  technologies used for building Web applications.
 
 ## 2005-07
 
