@@ -1,4 +1,4 @@
-# A brief history of the modern Web Platform (since 2004)
+# A brief history of the modern Web Platform
 
 ## 2004-01
 
@@ -89,7 +89,7 @@
 
 ## 2004-07
 
-[HTML `canvas` element created by Apple Safari team](http://ln.hixie.ch/?start=1089635050&count=1).
+- [HTML `canvas` element created by Apple Safari team](http://ln.hixie.ch/?start=1089635050&count=1).
 
 ## 2004-09
 
@@ -333,4 +333,10 @@
 - [Internet Explorer version 9](http://en.wikipedia.org/wiki/Internet_Explorer_9)
   released, with vastly improved standards support (among other things, it
   adds support for SVG and the HTML `canvas` and `video` elements).
+
+## 2011-11
+
+- [Internet Explorer share of browsing traffic briefly dips below 50%](http://arstechnica.com/information-technology/2011/11/the-end-of-an-era-internet-explorer-drops-below-50-percent-of-web-usage/)
+  for the first time in more than a decade; however, after it reaches that
+  zenith, its desktop usage will again begin rising toward 60%.
 
