@@ -18,14 +18,15 @@
   July 2007.
 
 - [Safari 1.2](http://weblogs.mozillazine.org/hyatt/archives/2004_02.html#004874)
-  released; first version of Safari with XMLHttpRequest support.
+  released; first version of Safari with XMLHttpRequest (XHR) support
+  (following Internet Explorer and Firefox)
 
 - [Facebook launched](http://en.wikipedia.org/wiki/Timeline_of_Facebook#2004),
   with membership initially restricted to students of Harvard University.
 
 - [Flickr launched](http://en.wikipedia.org/wiki/Flickr); making
-  innovative use of XMLHttpRequest and client-side browser technologies to
-  drive its user interface, adding
+  innovative use of XHR and client-side browser technologies to drive its
+  user interface, adding
   ["tagging" features inspired by del.icio.us](http://en.wikipedia.org/wiki/Tag_%28metadata%29#History),
   and eventually moving to provide APIs to expose Flickr for data using in
   other sites and in modern Web applicationss, it will go on to be often
@@ -113,7 +114,8 @@
   Opera, and Safari).
 
 - [Ajax: A New Approach to Web Applications](http://www.adaptivepath.com/ideas/essays/archives/000385.php)
-  by Jesse James Garrett (coining the term <i>Ajax</i>).
+  by Jesse James Garrett (coining the term <i>Ajax</i> to describe the use
+  of XHR in modern Web applications).
 
 ## 2005-03
 
@@ -126,7 +128,7 @@
   the level of standards conformance in Web browsers.
 
 - [Opera 8](http://en.wikipedia.org/wiki/History_of_the_Opera_web_browser#Version_8)
-  released; first release version of Opera with (limited) XMLHttpRequest support.
+  released; first release version of Opera with (limited) XHR support.
 
 ## 2005-04
 
