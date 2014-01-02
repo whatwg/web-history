@@ -5,10 +5,10 @@
 - [Void filling: Web Applications Language](http://ln.hixie.ch/?start=1074466808&count=1)
   blog posting from Ian Hickson:
 
-> The W3C had so far failed to address a need in the Web community: There
-> is no language for Web applications... I intend to do something about
-> this (hopefully within a W3C context, although that will depend on the
-> politics of the situation).
+> About 11 months ago, I mentioned that the W3C had so far failed to
+> address a need in the Web community: There is no language for Web
+> applications... I intend to do something about this (hopefully within a
+> W3C context, although that will depend on the politics of the situation).
 
 ## 2004-02
 
