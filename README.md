@@ -337,6 +337,6 @@
 ## 2011-11
 
 - [Internet Explorer share of browsing traffic briefly dips below 50%](http://arstechnica.com/information-technology/2011/11/the-end-of-an-era-internet-explorer-drops-below-50-percent-of-web-usage/)
-  for the first time in more than a decade; however, after it reaches that
-  zenith, its desktop usage will again begin rising toward 60%.
+  for the first time in more than a decade; however, after reaching that
+  low point, its desktop usage will again begin rising toward 60%.
 
