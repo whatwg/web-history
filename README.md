@@ -1,4 +1,4 @@
-# Ten years in Web technologies: 2004-2014
+# Ten years in Web technologies: 2004-201s.
 
 ## 2004-01
 
@@ -206,12 +206,14 @@
 ## 2007-05
 
 - [Google Gears](http://gearsblog.blogspot.com/2007/05/posted-by-aaron-boodman-and-erik.html)
-  released.
+  released; some of its key features eventually become standard parts of
+  the Web platform, and by the end of 2009 its development will end up
+  being permanently halted.
 
 ## 2007-06
 
 - [iPhone](http://en.wikipedia.org/wiki/History_of_the_iPhone#World_timeline)
-  first released in the US; it includes a mobile version of Safari that will
+  first released; it includes a mobile version of Safari that will
   eventually end up consistently accounting for more 50% of all mobile
   Web-browsing traffic (reaching a peak during 2012 of around 66%).
 
@@ -229,8 +231,14 @@
 - [Internet Explorer version 8](http://en.wikipedia.org/wiki/Internet_Explorer#Windows_Internet_Explorer_8)
   released; it is the first version of IE to pass [Acid2](http://en.wikipedia.org/wiki/Acid2).
 
+## 2010-02
+
+- [Google Gears development officially stopped](http://gearsblog.blogspot.com/2010/02/hello-html5.html)
+  by the Gears team at Google, following a gradual shift "towards bringing
+  all of the Gears capabilities into web standards like HTML5".
+
 ## 2011-03
 
 - [Internet Explorer version 9](http://en.wikipedia.org/wiki/Internet_Explorer_9)
   released, with vastly improved standards support; among other things, it
-  adds support for SVG, and the HTML `canvas` and `video` elements.
+  adds support for SVG and the HTML `canvas` and `video` elements.
