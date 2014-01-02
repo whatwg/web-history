@@ -19,7 +19,7 @@
 
 - [Safari 1.2](http://weblogs.mozillazine.org/hyatt/archives/2004_02.html#004874)
   released; first version of Safari with XMLHttpRequest (XHR) support
-  (following Internet Explorer and Firefox)
+  (following Internet Explorer and Firefox).
 
 - [Facebook launched](http://en.wikipedia.org/wiki/Timeline_of_Facebook#2004),
   with membership initially restricted to students of Harvard University.
