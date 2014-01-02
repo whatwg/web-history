@@ -11,18 +11,22 @@
 
 ## 2004-02
 
+- [CSS 2.1 Candidate Recommendation](http://www.w3.org/TR/2004/CR-CSS21-20040225/)
+  published; however, after this initial CR publication, the CSS 2.1 spec will
+  then go back to Working Draft status before returning again to CR status in
+  July 2007.
+
 - [Safari 1.2](http://weblogs.mozillazine.org/hyatt/archives/2004_02.html#004874)
   released; first version of Safari with XMLHttpRequest support.
+
+- [Facebook](http://en.wikipedia.org/wiki/Timeline_of_Facebook#2004)
+  launched, with membership initially restricted to students of Harvard
+  University.
 
 - [Flickr launched](http://en.wikipedia.org/wiki/Flickr); making
   innovative use of asynchronous scripting/Ajax mechanisms in its user
   interface, it will go on to become the Web application]most often cited in
   "Web 2.0" discussions.
-
-- [CSS 2.1 Candidate Recommendation](http://www.w3.org/TR/2004/CR-CSS21-20040225/)
-  published; however, after this initial CR publication, the CSS 2.1 spec will
-  then go back to Working Draft status before returning again to CR status in
-  July 2007.
 
 ## 2004-03
 
@@ -112,11 +116,15 @@
 
 ## 2005-04
 
+- [Web Forms 2.0](http://www.w3.org/Submission/2005/SUBM-web-forms2-20050411/)
+  published as a W3C Member Submission.
+
+- [Acid2](http://en.wikipedia.org/wiki/Acid2) published as a means to test
+  the level of standards conformance in Web browsers.
+
 - [Opera 8](http://en.wikipedia.org/wiki/History_of_the_Opera_web_browser#Version_8)
   released; first release version of Opera with (limited) XMLHttpRequest support.
 
-- [Web Forms 2.0](http://www.w3.org/Submission/2005/SUBM-web-forms2-20050411/)
-  published as a W3C Member Submission.
 
 ## 2005-09
 
@@ -157,10 +165,16 @@
 
 - [jQuery 1.0](http://blog.jquery.com/2006/08/26/jquery-10/) released.
 
+## 2006-09
+
+- [Facebook](http://en.wikipedia.org/wiki/Timeline_of_Facebook#2006) opened
+  to all users to join.
+
 ## 2006-10
 
-- [Microsoft Internet Explorer version 7](http://en.wikipedia.org/wiki/Internet_Explorer#Version_7)
+- [Internet Explorer version 7](http://en.wikipedia.org/wiki/Internet_Explorer#Version_7)
   released with CSS and DOM improvements -- five years after the release of IE6.
+
 - [Reinventing HTML](http://dig.csail.mit.edu/breadcrumbs/node/166)
   posting by Tim Berners-Lee:
   <i>Some things are clearer with hindsight of several years. It is necessary to
@@ -204,3 +218,19 @@
 ## 2008-01
 
 - [First W3C Working Draft of HTML5 published](http://www.w3.org/News/2008.html#entry-6935).
+
+## 2008-03
+
+- [Acid3](http://en.wikipedia.org/wiki/Acid3) published as a means to test
+  the level of standards conformance in Web browsers.
+
+## 2009-03
+
+- [Internet Explorer version 8](http://en.wikipedia.org/wiki/Internet_Explorer#Windows_Internet_Explorer_8)
+  released; it is the first version of IE to pass [Acid2](http://en.wikipedia.org/wiki/Acid2).
+
+## 2011-03
+
+- [Internet Explorer version 9](http://en.wikipedia.org/wiki/Internet_Explorer_9)
+  released, with vastly improved standards support; among other things, it
+  adds support for SVG, and the HTML `canvas` and `video` elements.
