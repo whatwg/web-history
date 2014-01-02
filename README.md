@@ -24,8 +24,8 @@
 
 - [Flickr launched](http://en.wikipedia.org/wiki/Flickr); making
   innovative use of asynchronous scripting/Ajax mechanisms in its user
-  interface, it will go on to become the Web application]most often cited in
-  "Web 2.0" discussions.
+  interface, it will go on to be often cited as an example later in "Web
+  2.0" discussions.
 
 ## 2004-03
 
@@ -152,7 +152,6 @@
   user interface innovation, as web developers are finally able to build web
   applications as rich as local PC-based applications.</i>
 
-
 ## 2005-11
 
 - [Web API](http://www.w3.org/2006/webapi/) and
@@ -246,7 +245,8 @@
 - [iPhone](http://en.wikipedia.org/wiki/History_of_the_iPhone#World_timeline)
   first released; it includes a mobile version of Safari that will
   eventually end up consistently accounting for more 50% of all mobile
-  Web-browsing traffic (reaching a peak during 2012 of around 66%).
+  Web-browsing traffic (reaching a peak during 2012 of around 66%); it's
+  also notable in that it doesn't include support for Adobe Flash.
 
 ## 2007-10
 
@@ -307,6 +307,16 @@
 - [Google Gears development officially stopped](http://gearsblog.blogspot.com/2010/02/hello-html5.html)
   by the Gears team at Google, following a gradual shift "towards bringing
   all of the Gears capabilities into web standards like HTML5".
+
+## 2010-04
+
+- [Steve Jobs "Thoughts on Flash"](http://www.apple.com/hotnews/thoughts-on-flash/);
+  excerpt:
+> the mobile era is about low power devices, touch interfaces and open web
+> standards – all areas where Flash falls short‥. Rather than use Flash,
+> Apple has adopted HTML5, CSS and JavaScript – all open standards...
+> Perhaps Adobe should focus more on creating great HTML5 tools for the
+> future, and less on criticizing Apple for leaving the past behind.
 
 ## 2011-03
 
