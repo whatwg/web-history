@@ -91,7 +91,7 @@
 
 ## 2004-07
 
-- [HTML `canvas` element created by Apple Safari team](http://ln.hixie.ch/?start=1089635050&count=1).
+- [HTML `canvas` element created by Safari team](http://ln.hixie.ch/?start=1089635050&count=1).
 
 ## 2004-09
 
@@ -274,10 +274,10 @@
 - [HTML "offline Web applications" feature introduced](http://html5.org/tools/web-apps-tracker?from=848&to=1115)
   (`applicationCache` interface, <i>aka</i> appCache)
 
-- [CSS Transforms created by Apple Safari team](https://www.webkit.org/blog/130/css-transforms/)
+- [CSS Transforms created by Safari team](https://www.webkit.org/blog/130/css-transforms/)
   (`transform-*` properties)
 
-- [CSS Transitions created by Apple Safari team](https://www.webkit.org/blog/138/css-animation/)
+- [CSS Transitions created by Safari team](https://www.webkit.org/blog/138/css-animation/)
   (`transition-*` properties)
 
 - [Downloadable-fonts support added to WebKit](https://www.webkit.org/blog/124/downloadable-fonts/);
@@ -292,6 +292,13 @@
   on the market, and help to initiate a JavaScript-engine performance race
   among browser projects, starting in mid-2008.
 
+## 2007-10
+
+- [SunSpider JavaScript benchmark introduced](https://www.webkit.org/blog/152/announcing-sunspider-09/)
+  by the Safari team; during the latter half of 2008 and after, it will
+  become widely used by other major browser projects in documenting the
+  relative performance improvements in their JavaScript engines.
+
 ## 2008-01
 
 - [First W3C Working Draft of HTML5 published](http://www.w3.org/News/2008.html#entry-6935).
@@ -304,9 +311,10 @@
 ## 2008-06
 
 - [SquirrelFish JavaScript engine announced](https://www.webkit.org/blog/189/announcing-squirrelfish/)
-  by the Apple Safari team (an incremental rewrite of the "JavaScriptCore"
-  engine to turn it into a bytecode interpreter, resulting in large
-  performance improvements)
+  by the Safari team (an incremental rewrite of the "JavaScriptCore" engine
+  to turn it into a bytecode interpreter, resulting in large performance
+  improvements); during the following months, browser projects rewrite
+  their JavaScript engines in a race to improve performance.
 
 ## 2008-07
 
@@ -315,7 +323,7 @@
 
 ## 2009-02
 
-- [CSS Animations created by Apple Safari team](https://www.webkit.org/blog/324/css-animation-2/)
+- [CSS Animations created by Safari team](https://www.webkit.org/blog/324/css-animation-2/)
   (`@keyframes` rule and `animation-*` properties).
 
 ## 2009-03
