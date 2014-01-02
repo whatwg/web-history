@@ -133,11 +133,10 @@
   talk presented by Dean Jackson in the W3C track at WWW2005, will the
   goals of the "Web Platform" outlined as:
 
-  * To provide a better programming environment for the Web (with new
-    interfaces).
   * To (better) enable the Web as an application platform (on all devices)
   * To help users by requiring support for standards in the browser.
-  * To give developers a better environment.
+  * To give Web developers a better programming environment (with new
+    interfaces).
 
   During the rest of 2005 and after, the term "the Web Platform" will see
   increasing use as a label specifically or the standard set of client-side
