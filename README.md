@@ -139,8 +139,9 @@
     interfaces).
 
   During the rest of 2005 and after, the term "the Web Platform" will see
-  increasing use as a label specifically or the standard set of client-side
-  browser technologies used for building modern Web applications.
+  increasing use as a label specifically for the standard set of
+  client-side browser technologies used for building modern Web
+  applications.
 
 ## 2005-07
 
