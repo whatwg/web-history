@@ -1,13 +1,14 @@
-# Ten years in Web technologies: 2004-2014.
+# A brief history of the modern Web Platform (since 2004)
 
 ## 2004-01
 
 - [Void filling: Web Applications Language](http://ln.hixie.ch/?start=1074466808&count=1)
   blog posting from Ian Hickson:
-  <i>The W3C had so far failed to address a need in the Web community: There is
-  no language for Web applications... I intend to do something about this
-  (hopefully within a W3C context, although that will depend on the politics of
-  the situation).</i>
+
+> The W3C had so far failed to address a need in the Web community: There
+> is no language for Web applications... I intend to do something about
+> this (hopefully within a W3C context, although that will depend on the
+> politics of the situation).
 
 ## 2004-02
 
@@ -24,18 +25,19 @@
 
 - [Flickr launched](http://en.wikipedia.org/wiki/Flickr); making
   innovative use of XMLHttpRequest to drive its user interface, adding
-  "tagging" features inspired by del.icio.us, and eventually moving to
-  provide APIs to expose Flickr for data using in other sites and Web
-  aps, it will go on to be often cited as a key example of a "Web 2.0"
-  application.
+  ["tagging" features inspired by del.icio.us](http://en.wikipedia.org/wiki/Tag_%28metadata%29#History),
+  and eventually moving to provide APIs to expose Flickr for data using in
+  other sites and Web apps, it will go on to be often cited as a key
+  example of a "Web 2.0" application.
 
 ## 2004-03
 
 - [Ramblings from the North](http://ln.hixie.ch/?start=1080506019&count=1)
   blog posting from Ian Hickson:
-  <i>I've been taking the opportunity to work on a proposal for a Web
-  Applications specification... something along the same lines as Web Forms 2,
-  but specifically for client-side application development.</i>
+
+> I've been taking the opportunity to work on a proposal for a Web
+> Applications specification... something along the same lines as Web Forms
+> 2, but specifically for client-side application development.
 
 ## 2004-04
 
@@ -49,10 +51,11 @@
 
 - [Backwards Compatibility](http://ln.hixie.ch/?start=1085764602&count=1)
   blog posting from Ian Hickson:
-  <i>Authors still want to write Web applications, and the currently deployed
-  standards are inadequate. Since completely new standards won't cut it [...]
-  this leaves us with the solution we (Opera and Mozilla) have been advocating:
-  updating HTML and the DOM.</i>
+
+> Authors still want to write Web applications, and the currently deployed
+> standards are inadequate. Since completely new standards won't cut it
+> [...] this leaves us with the solution we (Opera and Mozilla) have been
+> advocating: updating HTML and the DOM.
 
 ## 2004-06
 
@@ -75,13 +78,14 @@
 > proposed by us at the workshop.
 
 - [WHATWG launched](http://www.whatwg.org/news/start):
-  <i>The group aims to develop specifications based on HTML and related
-  technologies to ease the deployment of interoperable Web Applications [...]
-  for implementation in mass-market Web browsers, in particular Safari, Mozilla,
-  and Opera; [the group] intends to ensure that all its specifications address
-  backwards compatibility concerns [...] and specify error handling behavior to
-  ensure interoperability even in the face of documents that do not comply to
-  the letter of the specifications.</i>
+
+> The group aims to develop specifications based on HTML and related
+> technologies to ease the deployment of interoperable Web Applications
+> [...] for implementation in mass-market Web browsers, in particular
+> Safari, Mozilla, and Opera; [the group] intends to ensure that all its
+> specifications address backwards compatibility concerns [...] and specify
+> error handling behavior to ensure interoperability even in the face of
+> documents that do not comply to the letter of the specifications.
 
 ## 2004-07
 
@@ -148,11 +152,12 @@
 - [What Is Web 2.0](http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html)
   article by Tim O'Reilly. Subsequent discussions of the term
   <i>Web 2.0</i> often cite this article; excerpt:
-  <i>It's clear that standards and solutions [...] will enable the next
-  generation of applications. [...] AJAX is also a key component of Web 2.0
-  applications such as Flickr [...] We're entering an unprecedented period of
-  user interface innovation, as web developers are finally able to build web
-  applications as rich as local PC-based applications.</i>
+
+> It's clear that standards and solutions [...] will enable the next
+> generation of applications. [...] AJAX is also a key component of Web 2.0
+> applications such as Flickr [...] We're entering an unprecedented period
+> of user interface innovation, as web developers are finally able to build
+> web applications as rich as local PC-based applications.
 
 ## 2005-11
 
@@ -206,13 +211,14 @@
 
 - [Reinventing HTML](http://dig.csail.mit.edu/breadcrumbs/node/166)
   posting by Tim Berners-Lee:
-  <i>Some things are clearer with hindsight of several years. It is necessary to
-  evolve HTML incrementally. The attempt to get the world to switch to XML,
-  including quotes around attribute values and slashes in empty tags and
-  namespaces all at once didn't work... The plan is to charter a completely new
-  HTML group. Unlike the previous one, this one will be chartered to do
-  incremental improvements to HTML, as also in parallel xHTML.</i>
 
+> Some things are clearer with hindsight of several years. It is necessary
+> to evolve HTML incrementally. The attempt to get the world to switch to
+> XML, including quotes around attribute values and slashes in empty tags
+> and namespaces all at once didn't work... The plan is to charter a
+> completely new HTML group. Unlike the previous one, this one will be
+> chartered to do incremental improvements to HTML, as also in parallel
+> xHTML.
 
 ## 2006-11
 
@@ -315,11 +321,12 @@
 - [Steve Jobs "Thoughts on Flash"](http://www.apple.com/hotnews/thoughts-on-flash/);
   excerpt:
 
-> the mobile era is about low power devices, touch interfaces and open web
-> standards – all areas where Flash falls short‥. Rather than use Flash,
-> Apple has adopted HTML5, CSS and JavaScript – all open standards...
-> Perhaps Adobe should focus more on creating great HTML5 tools for the
-> future, and less on criticizing Apple for leaving the past behind.
+> ...the mobile era is about low power devices, touch interfaces and open
+> web standards – all areas where Flash falls short‥. Rather than use
+> Flash, Apple has adopted HTML5, CSS and JavaScript – all open
+> standards...  Perhaps Adobe should focus more on creating great HTML5
+> tools for the future, and less on criticizing Apple for leaving the past
+> behind.
 
 ## 2011-03
 
