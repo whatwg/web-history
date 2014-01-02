@@ -142,13 +142,12 @@
     interfaces).
 
   During the rest of 2005 and after, the term "the Web Platform" will see
-  increasing use as a label specifically for the standard set of
-  client-side browser technologies used for building modern Web
-  applications.
+  increasing use, specifically for the standard set of client-side browser
+  technologies available for building modern Web applications.
 
 ## 2005-07
 
-- [`<!DOCTYPE html>` (HTML5 doctype) introduced](http://web.archive.org/web/20050701075402/http://www.whatwg.org/specs/web-apps/current-work/).
+- [`<!DOCTYPE html>` (HTML5 doctype) first introduced](http://web.archive.org/web/20050701075402/http://www.whatwg.org/specs/web-apps/current-work/).
 
 ## 2005-09
 
