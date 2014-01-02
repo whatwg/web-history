@@ -1,4 +1,4 @@
-# Ten years in Web technologies: 2004-201s.
+# Ten years in Web technologies: 2004-2014.
 
 ## 2004-01
 
@@ -19,9 +19,8 @@
 - [Safari 1.2](http://weblogs.mozillazine.org/hyatt/archives/2004_02.html#004874)
   released; first version of Safari with XMLHttpRequest support.
 
-- [Facebook](http://en.wikipedia.org/wiki/Timeline_of_Facebook#2004)
-  launched, with membership initially restricted to students of Harvard
-  University.
+- [Facebook launched](http://en.wikipedia.org/wiki/Timeline_of_Facebook#2004),
+  with membership initially restricted to students of Harvard University.
 
 - [Flickr launched](http://en.wikipedia.org/wiki/Flickr); making
   innovative use of asynchronous scripting/Ajax mechanisms in its user
@@ -84,13 +83,7 @@
 
 ## 2004-07
 
-[HTML `canvas` element introduced by Apple](http://ln.hixie.ch/?start=1089635050&count=1)
-
-## 2004-08
-
-- [First public release](http://snapshot.opera.com/windows/w760p1.html)
-  of an Opera build with with some degree of XMLHttpRequest support (v7.60
-  Technical Preview for Windows).
+[HTML `canvas` element created by Apple Safari team](http://ln.hixie.ch/?start=1089635050&count=1).
 
 ## 2004-09
 
@@ -130,9 +123,6 @@
 
 ## 2005-04
 
-- [Web Forms 2.0](http://www.w3.org/Submission/2005/SUBM-web-forms2-20050411/)
-  published as a W3C Member Submission.
-
 - [Acid2](http://en.wikipedia.org/wiki/Acid2) published as a means to test
   the level of standards conformance in Web browsers.
 
@@ -141,7 +131,7 @@
 
 ## 2005-07
 
-- [`<!DOCTYPE html>` (HTML5 doctype) introduced](http://web.archive.org/web/20050701075402/http://www.whatwg.org/specs/web-apps/current-work/)
+- [`<!DOCTYPE html>` (HTML5 doctype) introduced](http://web.archive.org/web/20050701075402/http://www.whatwg.org/specs/web-apps/current-work/).
 
 ## 2005-09
 
@@ -193,8 +183,8 @@
 
 ## 2006-09
 
-- [Facebook](http://en.wikipedia.org/wiki/Timeline_of_Facebook#2006) opened
-  to all users to join.
+- [Facebook opened](http://en.wikipedia.org/wiki/Timeline_of_Facebook#2006)
+  for all users to join.
 
 ## 2006-10
 
@@ -229,7 +219,7 @@
   produce] a language evolved from HTML4 for describing the semantics of
   documents and applications on the World Wide Web.</i>
 
-- [`video` and `audio` elements added to the HTML spec](http://html5.org/r/394-699)
+- [`video` and `audio` elements added to the HTML spec](http://html5.org/r/394-699).
 
 ## 2007-05
 
@@ -247,8 +237,21 @@
 
 ## 2007-10
 
-- [HTML "offline Web applications"](http://html5.org/tools/web-apps-tracker?from=848&to=1115)
-  (the `applicationCache` interface, <i>aka</i> appCache)
+- [HTML "offline Web applications" feature introduced](http://html5.org/tools/web-apps-tracker?from=848&to=1115)
+  (`applicationCache` interface, <i>aka</i> appCache)
+
+- [CSS Transforms created by Apple Safari team](https://www.webkit.org/blog/130/css-transforms/)
+  (`transform-*` properties)
+
+- [CSS Transitions created by Apple Safari team](https://www.webkit.org/blog/138/css-animation/)
+  (`transition-*` properties)
+
+- [Downloadable-fonts support added to WebKit](https://www.webkit.org/blog/124/downloadable-fonts/);
+  (`@font-face` rule). Eventually, by mid-2009, downloadable fonts will be
+  supported in all major browsers. (Note that Internet Explorer was the
+  first to have downloadable-fonts support, starting with the release of
+  IE4 in 1997 -- and the feature had actually been part of the CSS2.0
+  Recommendation published in 1998.)
 
 ## 2008-01
 
@@ -263,6 +266,11 @@
 
 - [Web Sockets and Web Workers](http://html5.org/tools/web-apps-tracker?from=1835&to=1968)
   first specified.
+
+## 2009-02
+
+- [CSS Animations created by Apple Safari team](https://www.webkit.org/blog/324/css-animation-2/)
+  (`@keyframes` rule and `animation-*` properties).
 
 ## 2009-03
 
@@ -280,3 +288,4 @@
 - [Internet Explorer version 9](http://en.wikipedia.org/wiki/Internet_Explorer_9)
   released, with vastly improved standards support (among other things, it
   adds support for SVG and the HTML `canvas` and `video` elements).
+
