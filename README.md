@@ -27,8 +27,8 @@
   innovative use of XMLHttpRequest to drive its user interface, adding
   ["tagging" features inspired by del.icio.us](http://en.wikipedia.org/wiki/Tag_%28metadata%29#History),
   and eventually moving to provide APIs to expose Flickr for data using in
-  other sites and Web apps, it will go on to be often cited as a key
-  example of a "Web 2.0" application.
+  other sites and in modern Web applicationss, it will go on to be often
+  cited as a key example of a "Web 2.0" site.
 
 ## 2004-03
 
@@ -140,8 +140,8 @@
   * To give developers a better environment.
 
   During the rest of 2005 and after, the term "the Web Platform" will see
-  increasing use as a common label for the set of client-side browser
-  technologies used for building Web applications.
+  increasing use as a label specifically or the standard set of client-side
+  browser technologies used for building modern Web applications.
 
 ## 2005-07
 
@@ -173,7 +173,6 @@
   [Web Application Formats](http://www.w3.org/2006/appformats/)
   Working Groups chartered at the launch of the W3C
   [Rich Web Client Activity](http://www.w3.org/News/2005#x200501115c).
-
 
 ## 2006-01
 
@@ -347,4 +346,3 @@
 - [Internet Explorer share of browsing traffic briefly dips below 50%](http://arstechnica.com/information-technology/2011/11/the-end-of-an-era-internet-explorer-drops-below-50-percent-of-web-usage/)
   for the first time in more than a decade; however, after reaching that
   low point, its desktop usage will again begin rising toward 60%.
-
