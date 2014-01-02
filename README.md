@@ -105,14 +105,6 @@
   first takes place in San Francisco, eventually causing the term <i>Web 2.0</i>
   to be brought into general use.
 
-- [Compound Document Formats Activity and Working Group](http://www.w3.org/News/2004#x20041007b)
-  launched, with deliverables
-  [described as](http://www.w3.org/2004/CDF/admin/charter):
-  <i>Specifications for combining W3C technologies, such as SMIL, SVG and XML
-  Events, with XHTML by reference</i> and <i>Specifications for combining W3C
-  technologies, such as XHTML, XML Events, CSS, SVG, SMIL and XForms, into a
-  single document by inclusion</i>.
-
 ## 2005-02
 
 - [Google Maps launched](http://en.wikipedia.org/wiki/Google_maps#Development_history)
@@ -134,6 +126,14 @@
 
 - [Opera 8](http://en.wikipedia.org/wiki/History_of_the_Opera_web_browser#Version_8)
   released; first release version of Opera with (limited) XMLHttpRequest support.
+
+## 2005-04
+
+- ["The Web Platform - Browsers and Applications"](http://www.w3.org/2005/Talks/0513-webplatform/)
+  talk presented by Dean Jackson at WWW2005; during the rest of 2005 and
+  after, the term "the Web Platform" will see increasing use as a common
+  label for the set of client-side browser technologies used for building
+  Web applications.
 
 ## 2005-07
 
