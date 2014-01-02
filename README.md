@@ -200,7 +200,7 @@
 
 ## 2006-07
 
-- [Twitter launched](http://techcrunch.com/2006/07/15/is-twttr-interesting/)
+- [Twitter launched](http://techcrunch.com/2006/07/15/is-twttr-interesting/).
 
 ## 2006-08
 
@@ -357,6 +357,28 @@
 
 ## 2011-11
 
+- [Adobe announces shift toward HTML5 and away from Flash](http://blogs.adobe.com/conversations/2011/11/flash-focus.html);
+  specifically, Adobe announces that they are permanently halting
+  development of Flash Player for mobile devices; excerpt:
+
+> HTML5 is now universally supported on major mobile devices, in some cases
+> exclusively. This makes HTML5 the best solution for creating and
+> deploying content in the browser across mobile platforms.
+
 - [Internet Explorer share of browsing traffic briefly dips below 50%](http://arstechnica.com/information-technology/2011/11/the-end-of-an-era-internet-explorer-drops-below-50-percent-of-web-usage/)
   for the first time in more than a decade; however, after reaching that
   low point, its desktop usage will again begin rising toward 60%.
+
+## 2012-02
+
+- [Adobe reduces Flash roadmap to just two areas: gaming and premium video](http://www.adobe.com/devnet/flashplatform/whitepapers/roadmap.html)
+  while further focusing on HTML5 and other "modern web technologies":
+
+> With the growth of competition in the browser market, browser vendors are
+> increasingly innovating and providing functionality that makes it
+> possible to deploy rich motion graphics directly via browser
+> technologies, a role once served primarily by Flash Player. Increasingly,
+> rich motion graphics are being deployed directly via the browser using
+> HTML5, CSS3, JavaScript and other modern web technologies. Adobe expects
+> that this trend will continue and accelerate, and Adobe will continue to
+> play an active role in this space.
