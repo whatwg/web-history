@@ -29,7 +29,7 @@
   user interface, adding
   ["tagging" features inspired by del.icio.us](http://en.wikipedia.org/wiki/Tag_%28metadata%29#History),
   and eventually moving to provide APIs to expose Flickr for data using in
-  other sites and in modern Web applicationss, it will go on to be often
+  other sites and in modern Web applications, it will go on to be often
   cited as a key example of a "Web 2.0" site/service.
 
 ## 2004-03
@@ -182,10 +182,9 @@
   first version released.
 
 - [Opera Mini](http://en.wikipedia.org/wiki/Opera_Mini)
-  released; during the next five years, it will end up consistently accounting
-  for more than 25% of all mobile Web-browsing traffic -- at its peak usage in
-  early 2010, for more than 40% of all mobile Web-browsing traffic -- though
-  after its usage peaks, it will gradually drop until it reaches less than 5%.
+  released; it will play a role in expanding Web access to more parts of
+  the world, and will end up consistently accounting for a significant
+  percentage of worldwide mobile Web-browsing traffic.
 
 - [JSON Internet Draft published](http://ietfreport.isoc.org/all-ids/draft-crockford-jsonorg-json-00.txt)
   by Doug Crockford; however, it had already been documented by Crockford
@@ -264,10 +263,10 @@
 ## 2007-06
 
 - [iPhone](http://en.wikipedia.org/wiki/History_of_the_iPhone#World_timeline)
-  first released; it includes a mobile version of Safari that will
-  eventually end up consistently accounting for more 50% of all mobile
-  Web-browsing traffic (reaching a peak during 2012 of around 66%); it's
-  also notable in that it doesn't include support for Adobe Flash.
+  first released; notable among other things in that it doesn't include
+  support for Adobe Flash, it will end up consistently accounting for
+  significantly more mobile Web-browsing traffic than any other mobile
+  device.
 
 ## 2007-10
 
@@ -357,22 +356,19 @@
 
 ## 2011-11
 
-- [Adobe announces shift toward HTML5 and away from Flash](http://blogs.adobe.com/conversations/2011/11/flash-focus.html);
-  specifically, Adobe announces that they are permanently halting
-  development of Flash Player for mobile devices; excerpt:
+- [Flash Player for mobile devices end-of-lifed by Adobe](http://blogs.adobe.com/conversations/2011/11/flash-focus.html);
+  the news is widely interpreted as a major shift by Adobe toward HTML5 and
+  away from Flash; excerpt from the announcement:
 
 > HTML5 is now universally supported on major mobile devices, in some cases
 > exclusively. This makes HTML5 the best solution for creating and
 > deploying content in the browser across mobile platforms.
 
-- [Internet Explorer share of browsing traffic briefly dips below 50%](http://arstechnica.com/information-technology/2011/11/the-end-of-an-era-internet-explorer-drops-below-50-percent-of-web-usage/)
-  for the first time in more than a decade; however, after reaching that
-  low point, its desktop usage will again begin rising toward 60%.
-
 ## 2012-02
 
 - [Adobe reduces Flash roadmap to just two areas: gaming and premium video](http://www.adobe.com/devnet/flashplatform/whitepapers/roadmap.html)
-  while further focusing on HTML5 and other "modern web technologies":
+  the news is widely interpreted as a further focusing by Adobe away from
+  Flash and toward HTML5 and other "modern web technologies":
 
 > With the growth of competition in the browser market, browser vendors are
 > increasingly innovating and providing functionality that makes it
