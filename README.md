@@ -61,7 +61,7 @@
 
 ## 2004-06
 
-### W3C Workshop on Web Applications and Compound Documents
+### 2004-06-02: W3C Workshop on Web Applications and Compound Documents
 
 - [W3C Workshop on Web Applications and Compound Documents](http://www.w3.org/2004/04/webapps-cdf-ws/)
   held at Adobe offices in San Jose; Opera and Mozilla jointly submit and
@@ -81,7 +81,7 @@
 > with Opera and others to explore the sort of incremental improvements to HTML
 > proposed by us at the workshop.
 
-### WHATWG launched
+### 2004-06-04: WHATWG launched
 
 - [WHATWG launched](http://www.whatwg.org/news/start)
 
