@@ -367,7 +367,7 @@
   [Announced on the WHATWG mailing list](http://lists.w3.org/Archives/Public/public-whatwg-archive/2011Mar/0238.html),
   this new section of the HTML spec introduces the `getUserMedia` method,
   `PeerConnection` interface, and `MediaStream` interface (initially just
-  named `Stream`); the content of the section will eventually be forked
+  named `Stream`). The content of the section will eventually be forked
   by the W3C WebRTC Working Group to create the
   [WebRTC spec](http://dev.w3.org/2011/webrtc/editor/webrtc.html), but even
   at this point in 2011 when it is first introduced, it already provides
