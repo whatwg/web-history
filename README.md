@@ -385,9 +385,9 @@
   the news is widely interpreted as a major shift by Adobe toward HTML5 and
   away from Flash; excerpt from the announcement:
 
-> HTML5 is now universally supported on major mobile devices, in some cases
-> exclusively. This makes HTML5 the best solution for creating and
-> deploying content in the browser across mobile platforms.
+  > HTML5 is now universally supported on major mobile devices, in some cases
+  > exclusively. This makes HTML5 the best solution for creating and
+  > deploying content in the browser across mobile platforms.
 
 ## 2012-02
 
