@@ -314,7 +314,7 @@
   will become widely used by other major browser projects in documenting
   the relative performance improvements in their JavaScript engines.
 
-## 2008-01 to 2008-07
+## 2008-01 to 2008-06
 
 - [First W3C Working Draft of HTML5 published](http://www.w3.org/News/2008.html#entry-6935).
 
@@ -336,8 +336,32 @@
   specifications that enable improved client-side application development
   on the Web*
 
-- [Web Sockets and Web Workers](http://html5.org/tools/web-apps-tracker?from=1835&to=1968)
-  first specified.
+## 2008-07 to 2008-09
+
+- [Web Sockets and Web Workers first specified](http://html5.org/tools/web-apps-tracker?from=1835&to=1968).
+
+- [Firefox developer builds begin shipping with TraceMonkey](http://news.cnet.com/8301-1001_3-10023723-92.html),
+  a JIT-based JavaScript engine that compiles JavaScript to native machine
+  code, providing greatly improved JavaScript performance.
+
+- [Google Chrome first released](http://googleblog.blogspot.jp/2008/09/google-chrome-now-live.html),
+  with WebKit as its browser engine, and notable for being the first
+  release version of a browser to ship with a JIT-based JavaScript engine,
+  V8, which provides greatly improved JavaScript performance on par with
+  Mozilla's TraceMonkey (which had been released to developers less that a
+  month earlier).
+
+- [WebKit announces SquirrelFish Extreme](https://www.webkit.org/blog/214/introducing-squirrelfish-extreme/),
+  a new JIT-based JavaScript engine with performance on par with V8 and
+  TraceMonkey.
+
+  Over the coming months, the browser projects will all race with each
+  other further to incrementally improve the performance of their
+  JavaScript engines, with the result over the long term being a vast
+  improvement in the overall speed of JavaScript execution across all major
+  browsers -- which among other things ends up enabling browsers to behave
+  performantly with JavaScript-heavy Web application even on mobile devices
+  with relatively limited RAM and CPU resources.
 
 ## 2009-02 to 2009-03
 
