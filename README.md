@@ -187,9 +187,6 @@
 - [Web Forms 2.0 First Public Working Draft](http://www.w3.org/TR/2006/WD-web-forms-2-20060821/)
   published by W3C Web Application Formats Working Group.
 
-- [SVG Tiny 1.2 Candidate Recommendation](http://www.w3.org/TR/SVGMobile12/)
-  published.
-
 - [jQuery 1.0](http://blog.jquery.com/2006/08/26/jquery-10/) released.
 
 ## 2006-10 to 2006-11
