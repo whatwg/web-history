@@ -27,8 +27,8 @@
 
 ## 2004-04
 
-- [Web Applications 1.0](http://www.hixie.ch/specs/html/apps/web-apps-1);
-  first public draft of what will eventually become the HTML5 spec.
+- [Web Applications 1.0 first public draft](http://www.hixie.ch/specs/html/apps/web-apps-1)
+  published (the document that will eventually become the HTML5 spec).
 
   The publication of the Web Applications 1.0 first draft follows a couple
   of blog postings from Ian Hickson earlier in the year, 
