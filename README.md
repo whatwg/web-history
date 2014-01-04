@@ -330,10 +330,14 @@
 - [GitHub launched](https://github.com/blog/40-we-launched).
 
 - [SquirrelFish JavaScript engine announced](https://www.webkit.org/blog/189/announcing-squirrelfish/)
-  by the Safari team at Apple (an incremental rewrite of the "JavaScriptCore"
-  engine to turn it into a bytecode interpreter, resulting in large
-  performance improvements); during the following months, browser projects
-  rewrite their JavaScript engines in a race to improve performance.
+  by the Safari team at Apple; it's an incremental rewrite of Safari's
+  "JavaScriptCore" engine to turn it into a bytecode interpreter, resulting
+  in large performance improvements.
+
+  During the following months, other browser projects begin to rewrite
+  their JavaScript engines in a race that over the following next few years
+  eventually results in vastly improved overall speed of JavaScript
+  execution across all major browsers.
 
 - [W3C Web Applications Working Group launched](http://www.w3.org/blog/news/archives/286);
   the group merges the existing Web APIs Working Group and Web Application
