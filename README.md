@@ -394,7 +394,7 @@
 
 ## 2012-02
 
-- [Adobe reduces Flash roadmap to just two areas: gaming and premium video](http://www.adobe.com/devnet/flashplatform/whitepapers/roadmap.html)
+- [Adobe reduces Flash roadmap to just two areas: gaming and premium video](http://www.adobe.com/devnet/flashplatform/whitepapers/roadmap.html);
   the news is widely interpreted as a further focusing by Adobe away from
   Flash and toward HTML5 and other "modern web technologies":
 
