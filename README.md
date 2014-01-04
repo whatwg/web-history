@@ -93,7 +93,7 @@
   [first specified as part of Web Applications 1.0](http://web.archive.org/web/20041009144718/http://whatwg.org/specs/web-apps/current-work/).
 
 - [Web 2.0 Conference](http://web.archive.org/web/20041001091530/www.web2con.com/pub/w/32/program.html)
-  first takes place in San Francisco, eventually causing the term <i>Web 2.0</i>
+  first takes place in San Francisco, eventually causing the term *Web 2.0*
   to be brought into general use.
 
 - [Google Suggest](http://labs.google.com/suggestfaq.html)
@@ -103,8 +103,8 @@
   Opera, and Safari).
 
 - [Ajax: A New Approach to Web Applications](http://www.adaptivepath.com/ideas/essays/archives/000385.php)
-  by Jesse James Garrett (coining the term <i>Ajax</i> to describe the use
-  of XHR in modern Web applications).
+  by Jesse James Garrett (coining the term *Ajax* to describe the use of
+  XHR in modern Web applications).
 
 ## 2005-03 to 2005-05
 
@@ -144,8 +144,8 @@
   formatted in JSON.
 
 - [What Is Web 2.0](http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html)
-  article by Tim O'Reilly. Subsequent discussions of the term
-  <i>Web 2.0</i> often cite this article; excerpt:
+  article by Tim O'Reilly. Subsequent discussions of the term *Web 2.0*
+  often cite this article; excerpt:
 
   > It's clear that standards and solutions [...] will enable the next
   > generation of applications. [...] AJAX is also a key component of Web
@@ -157,6 +157,15 @@
   [Web Application Formats](http://www.w3.org/2006/appformats/)
   Working Groups chartered at the launch of the W3C
   [Rich Web Client Activity](http://www.w3.org/News/2005#x200501115c).
+
+  The mission of Web API Working Group is described as being to "enable
+  improved client-side application development on the Web" and its a scope
+  includes, among other things, documenting the Window and XMLHttpRequest
+  interfaces, and the `setTimeout` method, as well as specifying "network
+  communication methods" and a mechanism for "persistent storage on the
+  client" to facilitate "more advanced Web applications, enabling them to
+  store user preferences and possibly work in an offline environment, such
+  as a laptop or mobile phone with intermittent connectivity".
 
 ## 2006-01 to 2006-02
 
@@ -211,11 +220,11 @@
 
 - [Fifth W3C HTML Working Group](http://www.w3.org/2007/03/HTML-WG-charter.html)
   chartered (though only the second W3C HTML working group to focus on the core
-  HTML language), with a mission <i>to continue the evolution of HTML (including
-  classic HTML and XML syntaxes)</i> and with a statement that <i>this group
+  HTML language), with a mission *to continue the evolution of HTML (including
+  classic HTML and XML syntaxes)* and with a statement that *this group
   will maintain and produce incremental revisions to the HTML specification [to
   produce] a language evolved from HTML4 for describing the semantics of
-  documents and applications on the World Wide Web.</i>
+  documents and applications on the World Wide Web.*
 
 - [`video` and `audio` elements added to the HTML spec](http://html5.org/r/394-699).
 
@@ -233,7 +242,7 @@
   device.
 
 - [HTML "offline Web applications" feature introduced](http://html5.org/tools/web-apps-tracker?from=848&to=1115)
-  (`applicationCache` interface, <i>aka</i> appCache)
+  (`applicationCache` interface, _aka_ appCache)
 
 - [CSS Transforms](https://www.webkit.org/blog/130/css-transforms/) 
   and
@@ -270,6 +279,12 @@
   engine to turn it into a bytecode interpreter, resulting in large
   performance improvements); during the following months, browser projects
   rewrite their JavaScript engines in a race to improve performance.
+
+- [W3C Web Applications Working Group launched](http://www.w3.org/blog/news/archives/286);
+  the group merges the existing Web APIs Working Group and Web Application
+  Formats Working Group into a single group, with a mission to *provide
+  specifications that enable improved client-side application development
+  on the Web*
 
 - [Web Sockets and Web Workers](http://html5.org/tools/web-apps-tracker?from=1835&to=1968)
   first specified.
