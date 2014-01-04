@@ -353,8 +353,26 @@
 - [Video conferencing and peer-to-peer communication](http://html5.org/tools/web-apps-tracker?from=5944&to=5945)
   section added to the HTML spec by Ian Hickson; it introduces the
   `getUserMedia` method, `PeerConnection` interface, and `MediaStream`
-  interface (at first just named `Stream`); the content of the section will
-  eventually be forked by the W3C WebRTC Working Group to create the
+  interface (at first just named `Stream`), which provide for:
+
+>  - Getting a multimedia stream (video, audio, or both) from local devices
+>    (video cameras, microphones, Web cams) or from prerecorded files
+>    provided by the user.
+>
+>  - Recording such streams locally.
+>
+>  - Connecting to remote peers using NAT-traversal technologies such as
+>    ICE, STUN, and TURN.
+>    
+>  - Sending the locally-produced streams to remote peers and receiving
+>    streams from remote peers.
+>
+>  - Displaying such streams (both the locally-produced ones and the
+>    remotely-obtained ones) locally using the video or audio elements.
+>    Sending arbitrary data to remote peers.
+
+  The content of the section will eventually be forked by the W3C WebRTC
+  Working Group to create the
   [WebRTC](http://dev.w3.org/2011/webrtc/editor/webrtc.html) spec.
 
 - [Internet Explorer version 9](http://en.wikipedia.org/wiki/Internet_Explorer_9)
