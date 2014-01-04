@@ -394,12 +394,13 @@
 - [Adobe reduces Flash roadmap to just two areas: gaming and premium video](http://www.adobe.com/devnet/flashplatform/whitepapers/roadmap.html)
   the news is widely interpreted as a further focusing by Adobe away from
   Flash and toward HTML5 and other "modern web technologies":
-
-> With the growth of competition in the browser market, browser vendors are
-> increasingly innovating and providing functionality that makes it
-> possible to deploy rich motion graphics directly via browser
-> technologies, a role once served primarily by Flash Player. Increasingly,
-> rich motion graphics are being deployed directly via the browser using
-> HTML5, CSS3, JavaScript and other modern web technologies. Adobe expects
-> that this trend will continue and accelerate, and Adobe will continue to
-> play an active role in this space.
+  <blockquote>
+  With the growth of competition in the browser market, browser vendors are
+  increasingly innovating and providing functionality that makes it
+  possible to deploy rich motion graphics directly via browser
+  technologies, a role once served primarily by Flash Player. Increasingly,
+  rich motion graphics are being deployed directly via the browser using
+  HTML5, CSS3, JavaScript and other modern web technologies. Adobe expects
+  that this trend will continue and accelerate, and Adobe will continue to
+  play an active role in this space.
+  </blockquote>
