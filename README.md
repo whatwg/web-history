@@ -354,8 +354,8 @@
   section added to the HTML spec by Ian Hickson; it introduces the
   `getUserMedia` method, `PeerConnection` interface, and `MediaStream`
   interface (at first just named `Stream`); the content of the section will
-  eventually be *forked by the W3C WebRTC Working Group to create the
-  [WebRTC](http://dev.w3.org/2011/webrtc/editor/webrtc.html) spec*, but
+  eventually be **forked by the W3C WebRTC Working Group to create the
+  [WebRTC](http://dev.w3.org/2011/webrtc/editor/webrtc.html) spec**, but
   at this point in 2011 where it was first introduced, it already provided
   for all of the following (excerpt from the initial Introduction to the
   section):
