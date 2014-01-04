@@ -336,9 +336,9 @@
 - [Node.js first released](https://github.com/joyent/node/commit/80eed19612db0fe54191683e8a9f0bc5c1ca4ff6)
   by Ryan Dahl; it's a software platform notable for being built around the
   V8 JavaScript engine -- providing a way for developers to do server-side
-  development in JavaScript using an asynchronous, non-blocking "evented
-  I/O"-based non-threaded programming model similar to the client-side
-  event-loop-based programming model provided by Web browsers.
+  development in JavaScript using a non-threaded, non-blocking "evented
+  I/O"-based, asynchronous callback-driven programming model similar to the
+  client-side event-loop-based programming model provided by Web browsers.
 
 ## 2010-02
 
