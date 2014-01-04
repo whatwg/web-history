@@ -1,16 +1,5 @@
 # A brief history of the modern Web Platform
 
-## 2004-01
-
-- [Void filling: Web Applications Language](http://ln.hixie.ch/?start=1074466808&count=1)
-  blog posting from Ian Hickson:
-
-  > About 11 months ago, I mentioned that the W3C had so far failed to
-  > address a need in the Web community: There is no language for Web
-  > applications[...] I intend to do something about this (hopefully within a
-  > W3C context, although that will depend on the politics of the
-  > situation).
-
 ## 2004-02
 
 - [CSS 2.1 Candidate Recommendation](http://www.w3.org/TR/2004/CR-CSS21-20040225/)
@@ -33,15 +22,6 @@
   other sites and in modern Web applications, it will go on to be often
   cited as a key example of a "Web 2.0" site/service.
 
-## 2004-03
-
-- [Ramblings from the North](http://ln.hixie.ch/?start=1080506019&count=1)
-  blog posting from Ian Hickson:
-
-  > I've been taking the opportunity to work on a proposal for a Web
-  > Applications specification[...] something along the same lines as Web
-  > Forms 2, but specifically for client-side application development.
-
 ## 2004-04
 
 - [Gmail launched](http://en.wikipedia.org/wiki/Gmail)
@@ -49,6 +29,19 @@
 
 - [Web Applications 1.0](http://www.hixie.ch/specs/html/apps/web-apps-1);
   first public draft of what will eventually become the HTML5 spec.
+
+- The publication of the draft follows a couple of blog postings that from
+  Ian Hickson earlier in the year, 
+  [Ramblings from the North](http://ln.hixie.ch/?start=1080506019&count=1)
+  and
+  [Void filling: Web Applications Language](http://ln.hixie.ch/?start=1074466808&count=1):
+
+  > About 11 months ago, I mentioned that the W3C had so far failed to
+  > address a need in the Web community: There is no language for Web
+  > applications[...] I've been taking the opportunity to work on a
+  > proposal for a Web Applications specification[...] something along the
+  > same lines as Web Forms 2, but specifically for client-side application
+  > development.
 
 ## 2004-05
 
