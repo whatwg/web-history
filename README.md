@@ -122,9 +122,9 @@
 
 - [Ajax: A New Approach to Web Applications](http://www.adaptivepath.com/ideas/essays/archives/000385.php)
   by Jesse James Garrett; coining the term *Ajax* to describe XHR-driven
-  modern Web application, it specifically mentions JSON as a "means of
-  structuring data for interchange" in such applications, and cites Gmail,
-  Google Suggest, Google Maps, and Flickr as examples.
+  modern Web applications, Garrett specifically mentions JSON as a "means
+  of structuring data for interchange" in such applications, and cites
+  Gmail, Google Suggest, Google Maps, and Flickr as examples.
 
 - [Prototype JavaScript Framework created](http://en.wikipedia.org/wiki/Prototype_JavaScript_Framework)
   by Sam Stephenson; included with Ruby on Rails, it's one of the first
