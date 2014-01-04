@@ -224,15 +224,13 @@
   the Web platform, and by the end of 2009 its development will end up
   being permanently halted.
 
-## 2007-06
+## 2007-06 to 2007-12
 
 - [iPhone](http://en.wikipedia.org/wiki/History_of_the_iPhone#World_timeline)
   first released; notable among other things in that it doesn't include
   support for Adobe Flash, it will end up consistently accounting for
   significantly more mobile Web-browsing traffic than any other mobile
   device.
-
-## 2007-10 to 2007-12
 
 - [HTML "offline Web applications" feature introduced](http://html5.org/tools/web-apps-tracker?from=848&to=1115)
   (`applicationCache` interface, <i>aka</i> appCache)
