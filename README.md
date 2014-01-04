@@ -111,9 +111,9 @@
   becoming -- three years before the release of iPhone and mobile Safari --
   the first "full" mobile browser (non-WAP, JavaScript-enabled, using the
   same browser engine as desktop Opera) to generate any significant mobile
-  browsing traffic to non-WAP websites (though the usage largely comes just
-  from mobile phones in Japan, which at that time are still significantly
-  more advanced than mobile devices elsewhere in the world).
+  browsing traffic to normal (non-WAP) websites (though the usage largely
+  comes just from mobile phones in Japan, which at that time are still
+  significantly more advanced than mobile devices elsewhere in the world).
 
 - [Web 2.0 Conference](http://web.archive.org/web/20041001091530/www.web2con.com/pub/w/32/program.html)
   takes place in San Francisco, eventually causing the term *Web 2.0* to be
