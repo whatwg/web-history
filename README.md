@@ -2,10 +2,10 @@
 
 ## 2004-02
 
-- [CSS 2.1 Candidate Recommendation](http://www.w3.org/TR/2004/CR-CSS21-20040225/)
+- [CSS 2.1 Candidate Recommendation (CR)](http://www.w3.org/TR/2004/CR-CSS21-20040225/)
   published; the spec will later go back to normal Working Draft status for
-  a time before returning again to Candidate Recommendation status in July
-  2007, and then be published as final W3C Recommendation in June 2011.
+  a time before returning again to CR in July 2007, and then be published
+  as a final W3C Recommendation in June 2011.
 
 - [Safari 1.2](http://weblogs.mozillazine.org/hyatt/archives/2004_02.html#004874)
   released; first version of Safari with XMLHttpRequest (XHR) support
