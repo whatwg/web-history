@@ -231,7 +231,7 @@
 
 - [Twitter first launched](http://techcrunch.com/2006/07/15/is-twttr-interesting/)
   and
-  [Facebook opened widely](http://en.wikipedia.org/wiki/Timeline_of_Facebook#2006)
+  [Facebook first opened widely](http://en.wikipedia.org/wiki/Timeline_of_Facebook#2006)
   for all users to join.
 
 - [jQuery 1.0](http://blog.jquery.com/2006/08/26/jquery-10/) released.
