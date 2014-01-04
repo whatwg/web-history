@@ -369,9 +369,9 @@
   `PeerConnection` interface, and `MediaStream` interface (initially just
   named `Stream`); the content of the section will eventually be forked
   by the W3C WebRTC Working Group to create the
-  [WebRTC spec](http://dev.w3.org/2011/webrtc/editor/webrtc.html), but at
-  this point in 2011 when it was first introduced, it already provided for
-  all of the following (excerpt from the Introduction to the section):
+  [WebRTC spec](http://dev.w3.org/2011/webrtc/editor/webrtc.html), but even
+  at this point in 2011 when it was first introduced, it already provided
+  for all of the following (excerpt from the Introduction to the section):
 
   > Getting a multimedia stream (video, audio, or both) from local devices
   > (video cameras, microphones, Web cams) or from prerecorded files
