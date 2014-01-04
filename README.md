@@ -5,10 +5,11 @@
 - [Void filling: Web Applications Language](http://ln.hixie.ch/?start=1074466808&count=1)
   blog posting from Ian Hickson:
 
-> About 11 months ago, I mentioned that the W3C had so far failed to
-> address a need in the Web community: There is no language for Web
-> applications... I intend to do something about this (hopefully within a
-> W3C context, although that will depend on the politics of the situation).
+  > About 11 months ago, I mentioned that the W3C had so far failed to
+  > address a need in the Web community: There is no language for Web
+  > applications... I intend to do something about this (hopefully within a
+  > W3C context, although that will depend on the politics of the
+  > situation).
 
 ## 2004-02
 
@@ -37,9 +38,9 @@
 - [Ramblings from the North](http://ln.hixie.ch/?start=1080506019&count=1)
   blog posting from Ian Hickson:
 
-> I've been taking the opportunity to work on a proposal for a Web
-> Applications specification... something along the same lines as Web Forms
-> 2, but specifically for client-side application development.
+  > I've been taking the opportunity to work on a proposal for a Web
+  > Applications specification... something along the same lines as Web
+  > Forms 2, but specifically for client-side application development.
 
 ## 2004-04
 
@@ -54,10 +55,10 @@
 - [Backwards Compatibility](http://ln.hixie.ch/?start=1085764602&count=1)
   blog posting from Ian Hickson:
 
-> Authors still want to write Web applications, and the currently deployed
-> standards are inadequate. Since completely new standards won't cut it
-> [...] this leaves us with the solution we (Opera and Mozilla) have been
-> advocating: updating HTML and the DOM.
+  > Authors still want to write Web applications, and the currently
+  > deployed standards are inadequate. Since completely new standards won't
+  > cut it [...] this leaves us with the solution we (Opera and Mozilla)
+  > have been advocating: updating HTML and the DOM.
 
 ## 2004-06
 
@@ -73,25 +74,27 @@
   come away from the workshop with a realization that their goals with respect
   to Web applications are not in sync with others in attendance. Brendan Eich:
 
-> The dream of a new web, based on XHTML+SVG+SMIL+XForms, is just that -- a
-> dream. It won't come true no matter how many toy implementations there are...
-> The best way to help the Web is to incrementally improve the existing web
-> standards, with compatibility shims provided for IE, so that web content
-> authors can actually deploy new formats interoperably... Mozilla is joining
-> with Opera and others to explore the sort of incremental improvements to HTML
-> proposed by us at the workshop.
+  > The dream of a new web, based on XHTML+SVG+SMIL+XForms, is just that --
+  > a dream. It won't come true no matter how many toy implementations
+  > there are...  The best way to help the Web is to incrementally improve
+  > the existing web standards, with compatibility shims provided for IE,
+  > so that web content authors can actually deploy new formats
+  > interoperably... Mozilla is joining with Opera and others to explore
+  > the sort of incremental improvements to HTML proposed by us at the
+  > workshop.
 
 ### 2004-06-04: WHATWG launched
 
 - [WHATWG launched](http://www.whatwg.org/news/start)
 
-> The group aims to develop specifications based on HTML and related
-> technologies to ease the deployment of interoperable Web Applications
-> [...] for implementation in mass-market Web browsers, in particular
-> Safari, Mozilla, and Opera; [the group] intends to ensure that all its
-> specifications address backwards compatibility concerns [...] and specify
-> error handling behavior to ensure interoperability even in the face of
-> documents that do not comply to the letter of the specifications.
+  > The group aims to develop specifications based on HTML and related
+  > technologies to ease the deployment of interoperable Web Applications
+  > [...] for implementation in mass-market Web browsers, in particular
+  > Safari, Mozilla, and Opera; [the group] intends to ensure that all its
+  > specifications address backwards compatibility concerns [...] and
+  > specify error handling behavior to ensure interoperability even in the
+  > face of documents that do not comply to the letter of the
+  > specifications.
 
 ## 2004-07
 
@@ -167,11 +170,11 @@
   article by Tim O'Reilly. Subsequent discussions of the term
   <i>Web 2.0</i> often cite this article; excerpt:
 
-> It's clear that standards and solutions [...] will enable the next
-> generation of applications. [...] AJAX is also a key component of Web 2.0
-> applications such as Flickr [...] We're entering an unprecedented period
-> of user interface innovation, as web developers are finally able to build
-> web applications as rich as local PC-based applications.
+  > It's clear that standards and solutions [...] will enable the next
+  > generation of applications. [...] AJAX is also a key component of Web
+  > 2.0 applications such as Flickr [...] We're entering an unprecedented
+  > period of user interface innovation, as web developers are finally able
+  > to build web applications as rich as local PC-based applications.
 
 ## 2005-11
 
@@ -228,13 +231,13 @@
 - [Reinventing HTML](http://dig.csail.mit.edu/breadcrumbs/node/166)
   posting by Tim Berners-Lee:
 
-> Some things are clearer with hindsight of several years. It is necessary
-> to evolve HTML incrementally. The attempt to get the world to switch to
-> XML, including quotes around attribute values and slashes in empty tags
-> and namespaces all at once didn't work... The plan is to charter a
-> completely new HTML group. Unlike the previous one, this one will be
-> chartered to do incremental improvements to HTML, as also in parallel
-> xHTML.
+  > Some things are clearer with hindsight of several years. It is
+  > necessary to evolve HTML incrementally. The attempt to get the world to
+  > switch to XML, including quotes around attribute values and slashes in
+  > empty tags and namespaces all at once didn't work... The plan is to
+  > charter a completely new HTML group. Unlike the previous one, this one
+  > will be chartered to do incremental improvements to HTML, as also in
+  > parallel xHTML.
 
 ## 2006-11
 
@@ -345,12 +348,12 @@
 - [Steve Jobs "Thoughts on Flash"](http://www.apple.com/hotnews/thoughts-on-flash/);
   excerpt:
 
-> ...the mobile era is about low power devices, touch interfaces and open
-> web standards – all areas where Flash falls short‥. Rather than use
-> Flash, Apple has adopted HTML5, CSS and JavaScript – all open
-> standards...  Perhaps Adobe should focus more on creating great HTML5
-> tools for the future, and less on criticizing Apple for leaving the past
-> behind.
+  > ...the mobile era is about low power devices, touch interfaces and open
+  > web standards – all areas where Flash falls short‥. Rather than use
+  > Flash, Apple has adopted HTML5, CSS and JavaScript – all open
+  > standards...  Perhaps Adobe should focus more on creating great HTML5
+  > tools for the future, and less on criticizing Apple for leaving the
+  > past behind.
 
 ## 2011-03
 
@@ -370,14 +373,14 @@
   all of the following (excerpt from the initial Introduction to the
   section):
 
-> Getting a multimedia stream (video, audio, or both) from local devices
-> (video cameras, microphones, Web cams) or from prerecorded files
-> provided by the user; Recording such streams locally; Connecting to
-> remote peers using NAT-traversal technologies such as ICE, STUN, and
-> TURN; Sending the locally-produced streams to remote peers and receiving
-> streams from remote peers; Displaying such streams (both the
-> locally-produced ones and the remotely-obtained ones) locally using the
-> video or audio elements; Sending arbitrary data to remote peers.
+  > Getting a multimedia stream (video, audio, or both) from local devices
+  > (video cameras, microphones, Web cams) or from prerecorded files
+  > provided by the user; Recording such streams locally; Connecting to
+  > remote peers using NAT-traversal technologies such as ICE, STUN, and
+  > TURN; Sending the locally-produced streams to remote peers and
+  > receiving streams from remote peers; Displaying such streams (both the
+  > locally-produced ones and the remotely-obtained ones) locally using the
+  > video or audio elements; Sending arbitrary data to remote peers.
 
 ## 2011-11
 
@@ -385,8 +388,8 @@
   the news is widely interpreted as a major shift by Adobe toward HTML5 and
   away from Flash; excerpt from the announcement:
 
-  > HTML5 is now universally supported on major mobile devices, in some cases
-  > exclusively. This makes HTML5 the best solution for creating and
+  > HTML5 is now universally supported on major mobile devices, in some
+  > cases exclusively. This makes HTML5 the best solution for creating and
   > deploying content in the browser across mobile platforms.
 
 ## 2012-02
@@ -394,13 +397,12 @@
 - [Adobe reduces Flash roadmap to just two areas: gaming and premium video](http://www.adobe.com/devnet/flashplatform/whitepapers/roadmap.html)
   the news is widely interpreted as a further focusing by Adobe away from
   Flash and toward HTML5 and other "modern web technologies":
-  <blockquote>
-  With the growth of competition in the browser market, browser vendors are
-  increasingly innovating and providing functionality that makes it
-  possible to deploy rich motion graphics directly via browser
-  technologies, a role once served primarily by Flash Player. Increasingly,
-  rich motion graphics are being deployed directly via the browser using
-  HTML5, CSS3, JavaScript and other modern web technologies. Adobe expects
-  that this trend will continue and accelerate, and Adobe will continue to
-  play an active role in this space.
-  </blockquote>
+
+  > With the growth of competition in the browser market, browser vendors
+  > are increasingly innovating and providing functionality that makes it
+  > possible to deploy rich motion graphics directly via browser
+  > technologies, a role once served primarily by Flash Player.
+  > Increasingly, rich motion graphics are being deployed directly via the
+  > browser using HTML5, CSS3, JavaScript and other modern web
+  > technologies. Adobe expects that this trend will continue and
+  > accelerate, and Adobe will continue to
