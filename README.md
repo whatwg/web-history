@@ -362,16 +362,16 @@
   support for SVG and the HTML `canvas` and `video` elements).
 
 - [Video conferencing and peer-to-peer communication](http://html5.org/tools/web-apps-tracker?from=5944&to=5945)
-  section added to the HTML spec by Ian Hickson and
-  [announced on the WHATWG mailing list](http://lists.w3.org/Archives/Public/public-whatwg-archive/2011Mar/0238.html);
-  it introduces the `getUserMedia` method, `PeerConnection` interface, and
-  `MediaStream` interface (at first just named `Stream`); the content of
-  the section will eventually be **forked by the W3C WebRTC Working Group
-  to create the
+  section added to the HTML spec by Ian Hickson.
+  
+  [Announced on the WHATWG mailing list](http://lists.w3.org/Archives/Public/public-whatwg-archive/2011Mar/0238.html),
+  this new section of the WHATWG HTML spec introduces the `getUserMedia`
+  method, `PeerConnection` interface, and `MediaStream` interface
+  (initially just named `Stream`); the content of the section will
+  eventually be **forked by the W3C WebRTC Working Group to create the
   [WebRTC spec](http://dev.w3.org/2011/webrtc/editor/webrtc.html)**, but at
-  this point in 2011 where it was first introduced, it already provided for
-  all of the following (excerpt from the initial Introduction to the
-  section):
+  this point in 2011 when it was first introduced, it already provided for
+  all of the following (excerpt from the Introduction to the section):
 
   > Getting a multimedia stream (video, audio, or both) from local devices
   > (video cameras, microphones, Web cams) or from prerecorded files
