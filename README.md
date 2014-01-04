@@ -364,7 +364,7 @@
 > TURN; Sending the locally-produced streams to remote peers and receiving
 > streams from remote peers; Displaying such streams (both the
 > locally-produced ones and the remotely-obtained ones) locally using the
-> video or audio elements.  Sending arbitrary data to remote peers.
+> video or audio elements; Sending arbitrary data to remote peers.
 
   The content of the section will eventually be forked by the W3C WebRTC
   Working Group to create the
