@@ -8,8 +8,8 @@
   as a final W3C Recommendation in June 2011.
 
 - [Safari 1.2](http://weblogs.mozillazine.org/hyatt/archives/2004_02.html#004874)
-  released; first version of Safari with XMLHttpRequest (XHR) support
-  (following Internet Explorer and Firefox).
+  released; notable in that it's the first version of Safari with
+  XMLHttpRequest (XHR) support (following Internet Explorer and Firefox).
 
 - [Flickr launched](http://en.wikipedia.org/wiki/Flickr); making
   innovative use of XHR and client-side browser technologies to drive its
