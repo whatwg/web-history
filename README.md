@@ -44,10 +44,10 @@
   > same lines as Web Forms 2, but specifically for client-side application
   > development.
 
-## 2004-05
-
-- [Backwards Compatibility](http://ln.hixie.ch/?start=1085764602&count=1)
-  blog posting from Ian Hickson:
+  In the following month, Hickson writes a related 
+  [Backwards Compatibility](http://ln.hixie.ch/?start=1085764602&count=1)
+  blog posting in which is gives some more detail about the rationale
+  behind the Web Applications 1.0 spec:
 
   > Authors still want to write Web applications, and the currently
   > deployed standards are inadequate. Since completely new standards won't
