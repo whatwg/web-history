@@ -400,7 +400,7 @@
   [lands in WebKit nightlies](https://www.webkit.org/blog/603/webgl-now-available-in-webkit-nightlies/)
   and [Chrome developer builds](https://groups.google.com/d/msg/chromium-dev/DusnVs_TGGA/Z9p_p3joTy4J)
   -- thought the WebGL specification
-  [isn't actually published until December](http://www.khronos.org/webgl/public-mailing-list/archives/0912/msg00000.html).
+  [isn't actually published until December 2009](http://www.khronos.org/webgl/public-mailing-list/archives/0912/msg00000.html).
 
 ## 2010-02
 
