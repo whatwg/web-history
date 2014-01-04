@@ -309,6 +309,11 @@
   on the market, and help to initiate a JavaScript-engine performance race
   among browser projects, starting in mid-2008.
 
+- [Android mobile-device platform announced](http://www.openhandsetalliance.com/press_110507.html);
+  it is notable for including a mobile browser that uses WebKit as the
+  browser engine; however, it will be nearly a year before any Android
+  devices actually begin to ship.
+
 - [SunSpider JavaScript benchmark introduced](https://www.webkit.org/blog/152/announcing-sunspider-09/)
   by the Safari team at Apple; during the latter half of 2008 and after, it
   will become widely used by other major browser projects in documenting
@@ -363,6 +368,14 @@
   performantly with JavaScript-heavy Web application even on mobile devices
   with relatively limited RAM and CPU resources.
 
+- [First Android device ships](http://en.wikipedia.org/wiki/HTC_Dream#History):
+  the HTC dream, running Android 1.6; notable in that it's the first
+  non-iPhone smartphone to ship with a WebKit-based browser. Other
+  Android-based mobile devices will begin to ship in 2009, resulting in
+  Android devices accounting for a significant percentage of
+  mobile-browsing traffic by the end of 2010, when Android becomes the
+  most widely used smartphone platform worldwide.
+
 ## 2009-02 to 2009-03
 
 - [CSS Animations created by the Safari team at Apple](https://www.webkit.org/blog/324/css-animation-2/)
@@ -379,6 +392,15 @@
   development in JavaScript using a non-threaded, non-blocking "evented
   I/O"-based, asynchronous callback-driven programming model similar to the
   client-side event-loop-based programming model provided by Web browsers.
+
+## 2009-09
+
+- [WebGL support lands in Firefox Nightly](https://hacks.mozilla.org/2009/09/webgl-for-firefox/)
+  and, shortly after, also
+  [lands in WebKit nightlies](https://www.webkit.org/blog/603/webgl-now-available-in-webkit-nightlies/)
+  and [Chrome developer builds](https://groups.google.com/d/msg/chromium-dev/DusnVs_TGGA/Z9p_p3joTy4J)
+  -- thought the WebGL specification
+  [isn't actually published until December](http://www.khronos.org/webgl/public-mailing-list/archives/0912/msg00000.html).
 
 ## 2010-02
 
