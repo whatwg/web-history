@@ -29,7 +29,8 @@
 ## 2004-04
 
 - [Web Applications 1.0 first public draft published](http://www.hixie.ch/specs/html/apps/web-apps-1)
-  (the document that will eventually become the HTML5 spec).
+  by Ian Hickson (the document will eventually from the basis for the HTML5
+  spec).
 
   The publication of the Web Applications 1.0 first draft follows a couple
   of blog postings from Ian Hickson earlier in the year, 
@@ -153,8 +154,8 @@
   HTTP API for consuming and exposing data in JSON (PUT/POST data as JSON
   objects, and GET results as JSON objects).
 
-- [Acid2](http://en.wikipedia.org/wiki/Acid2) published as a means to test
-  the level of standards conformance in Web browsers.
+- [Acid2](http://en.wikipedia.org/wiki/Acid2) published by Ian Hickson as a
+  means to test the level of standards conformance in Web browsers.
 
 - [Opera 8](http://en.wikipedia.org/wiki/History_of_the_Opera_web_browser#Version_8)
   released; notable in that it's the first release version of Opera with
@@ -217,7 +218,7 @@
 ## 2006-01 to 2006-02
 
 - [Firebug](https://addons.mozilla.org/en-US/firefox/addon/firebug/versions/?page=5#version-0.2)
-  first version released.
+  first version released by Joe Hewitt.
 
 - [Opera Mini](http://en.wikipedia.org/wiki/Opera_Mini)
   released; it will play a role in expanding Web access to more parts of
@@ -324,8 +325,8 @@
 - [First W3C Working Draft of HTML5 published](http://www.w3.org/News/2008.html#entry-6935).
 
 - [Acid3](http://en.wikipedia.org/wiki/Acid3)
-  published as a means to test the level of standards conformance in Web
-  browsers.
+  published by Ian Hickson as a means to test the level of standards
+  conformance in Web browsers.
 
 - [GitHub launched](https://github.com/blog/40-we-launched).
 
