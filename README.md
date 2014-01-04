@@ -79,7 +79,7 @@
 > with Opera and others to explore the sort of incremental improvements to HTML
 > proposed by us at the workshop.
 
-- [WHATWG](http://www.whatwg.org/news/start) [launched](#whatwg):
+- [WHATWG launched](http://www.whatwg.org/news/start)(#whatwg):
 
 > The group aims to develop specifications based on HTML and related
 > technologies to ease the deployment of interoperable Web Applications
