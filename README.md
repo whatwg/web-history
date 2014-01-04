@@ -96,9 +96,9 @@
 
 - [Ruby on Rails first released](http://en.wikipedia.org/wiki/Ruby_on_Rails#History)
   by David Heinemeier Hansson. Among other things, it becomes notable as
-  one of the first Web-application development frameworks that provide
-  specific support for XHR-driven Web applications (what will in 2005
-  start to referred to as "Ajax" applications).
+  one of the first server-side Web-application development frameworks that
+  provide specific support for XHR-driven Web applications (what will in
+  2005 start to referred to as "Ajax" applications).
 
 - [Web 2.0 Conference](http://web.archive.org/web/20041001091530/www.web2con.com/pub/w/32/program.html)
   first takes place in San Francisco, eventually causing the term *Web 2.0*
@@ -111,8 +111,10 @@
   Opera, and Safari).
 
 - [Ajax: A New Approach to Web Applications](http://www.adaptivepath.com/ideas/essays/archives/000385.php)
-  by Jesse James Garrett (coining the term *Ajax* to describe XHR-driven
-  modern Web applications).
+  by Jesse James Garrett; coining the term *Ajax* to describe XHR-driven
+  modern Web application, it specifically mentions JSON as a "means of
+  structuring data for interchange" in such applications, and cites Gmail,
+  Google Suggest, Google Maps, and Flickr as examples.
 
 - [Prototype JavaScript Framework created](http://en.wikipedia.org/wiki/Prototype_JavaScript_Framework)
   by Sam Stephenson; included with Ruby on Rails, it's one of the first
@@ -327,7 +329,16 @@
   (`@keyframes` rule and `animation-*` properties).
 
 - [Internet Explorer version 8](http://en.wikipedia.org/wiki/Internet_Explorer#Windows_Internet_Explorer_8)
-  released; it's the first version of IE to pass [Acid2](http://en.wikipedia.org/wiki/Acid2).
+  released; it is the first version of IE to pass [Acid2](http://en.wikipedia.org/wiki/Acid2).
+
+## 2009-05
+
+- [Node.js first released](https://github.com/joyent/node/commit/80eed19612db0fe54191683e8a9f0bc5c1ca4ff6)
+  by Ryan Dahl; it's a software platform notable for being built around the
+  V8 JavaScript engine -- providing a way for developers to do server-side
+  development in JavaScript using an asynchronous, non-blocking "evented
+  I/O"-based non-threaded programming model similar to the client-side
+  event-loop-based programming model provided by Web browsers.
 
 ## 2010-02
 
