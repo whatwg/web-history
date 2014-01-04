@@ -97,8 +97,9 @@
 - [The possibility of an "HTML5" specification is mentioned](http://lists.w3.org/Archives/Public/public-whatwg-archive/2004Aug/0345.html);
   in a message from Anne van Kesteren on the WHATWG mailing list, and in a
   [later reply on the same list](http://lists.w3.org/Archives/Public/public-whatwg-archive/2004Nov/0030.html),
-  Ian Hickson says that "at this point Web Apps [the Web Applications 1.0
-  spec] is basically HTML5".
+  Ian Hickson says that "at this point Web Apps [Web Applications 1.0] is
+  basically HTML5", and *HTML5* subsequently begins to be used in WHATWG
+  discussion as shorthand name for the Web Applications 1.0 spec.
 
 - [Ruby on Rails first released](http://en.wikipedia.org/wiki/Ruby_on_Rails#History)
   by David Heinemeier Hansson. Among other things, it becomes notable as
