@@ -88,7 +88,7 @@
   > the sort of incremental improvements to HTML proposed by us at the
   > workshop.
 
-## 2004-07 to 2005-02
+## 2004-07 to 2004-12
 
 - [HTML `canvas` element created by the Safari team at Apple](http://ln.hixie.ch/?start=1089635050&count=1)
   and
@@ -100,15 +100,25 @@
   provide specific support for XHR-driven Web applications (what will in
   2005 start to referred to as "Ajax" applications).
 
-- [Web 2.0 Conference](http://web.archive.org/web/20041001091530/www.web2con.com/pub/w/32/program.html)
-  first takes place in San Francisco, eventually causing the term *Web 2.0*
-  to be brought into general use.
+- [Opera begins to ship pre-installed on some mobile devices](http://www.kddi.com/english/corporate/news_release/2004/1006/),
+  becoming -- three years before the release of iPhone and mobile Safari --
+  the first "full" mobile browser (non-WAP, JavaScript-enabled, using the
+  same browser engine as desktop Opera) to generate any significant mobile
+  browsing traffic to non-WAP websites (though the usage largely comes just
+  from mobile phones in Japan, which at that time are still significantly
+  more advanced than mobile devices elsewhere in the world).
 
-- [Google Suggest](http://labs.google.com/suggestfaq.html)
-  and 
-  [Google Maps launched](http://en.wikipedia.org/wiki/Google_maps#Development_history)
+- [Web 2.0 Conference](http://web.archive.org/web/20041001091530/www.web2con.com/pub/w/32/program.html)
+  takes place in San Francisco, eventually causing the term *Web 2.0* to be
+  brought into general use.
+
+## 2005-02
+
+  [Google Maps launched](http://en.wikipedia.org/wiki/Google_maps#History)
   in beta with support across all major browsers (Internet Explorer, Mozilla,
-  Opera, and Safari).
+  Opera, and Safari), following just after the launch, two months earlier, of
+  [Google Suggest](http://googleblog.blogspot.com/2004/12/ive-got-suggestion.html)
+  as a Google "Labs" project.
 
 - [Ajax: A New Approach to Web Applications](http://www.adaptivepath.com/ideas/essays/archives/000385.php)
   by Jesse James Garrett; coining the term *Ajax* to describe XHR-driven
@@ -152,10 +162,9 @@
   * To give Web developers a better programming environment (with new
     interfaces).
 
-  During the rest of 2005 and after, the term "the Web Platform" will see
-  increasing use, specifically for the standard set of client-side
-  technologies made available in browsers, for building modern Web
-  applications.
+  Going forward, the term "the Web Platform" will come into increasing use
+  specifically for describing the standard set of client-side technologies
+  made available in browsers, for building modern Web applications.
 
 - [script.aculo.us created](http://en.wikipedia.org/wiki/Script.aculo.us)
   by Thomas Fuchs; built on top of the Prototype JavaScript Framework and
