@@ -350,6 +350,10 @@
 
 ## 2011-03
 
+- [Internet Explorer version 9](http://en.wikipedia.org/wiki/Internet_Explorer_9)
+  released, with major improvements in standards support (including
+  support for SVG and the HTML `canvas` and `video` elements).
+
 - [Video conferencing and peer-to-peer communication](http://html5.org/tools/web-apps-tracker?from=5944&to=5945)
   section added to the HTML spec by Ian Hickson and
   [announced on the WHATWG mailing list](http://lists.w3.org/Archives/Public/public-whatwg-archive/2011Mar/0238.html);
@@ -370,10 +374,6 @@
 > streams from remote peers; Displaying such streams (both the
 > locally-produced ones and the remotely-obtained ones) locally using the
 > video or audio elements; Sending arbitrary data to remote peers.
-
-- [Internet Explorer version 9](http://en.wikipedia.org/wiki/Internet_Explorer_9)
-  released, with major improvements in standards support (including
-  support for SVG and the HTML `canvas` and `video` elements).
 
 ## 2011-11
 
