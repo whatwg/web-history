@@ -94,6 +94,12 @@
   and
   [first specified as part of Web Applications 1.0](http://web.archive.org/web/20041009144718/http://whatwg.org/specs/web-apps/current-work/).
 
+- [Ruby on Rails first released](http://en.wikipedia.org/wiki/Ruby_on_Rails#History)
+  by David Heinemeier Hansson. Among other things, it becomes notable as
+  one of the first Web-application development frameworks that provide
+  specific support for XHR-driven Web applications (what will in 2005
+  start to referred to as "Ajax" applications).
+
 - [Web 2.0 Conference](http://web.archive.org/web/20041001091530/www.web2con.com/pub/w/32/program.html)
   first takes place in San Francisco, eventually causing the term *Web 2.0*
   to be brought into general use.
@@ -105,19 +111,34 @@
   Opera, and Safari).
 
 - [Ajax: A New Approach to Web Applications](http://www.adaptivepath.com/ideas/essays/archives/000385.php)
-  by Jesse James Garrett (coining the term *Ajax* to describe the use of
-  XHR in modern Web applications).
+  by Jesse James Garrett (coining the term *Ajax* to describe XHR-driven
+  modern Web applications).
 
-## 2005-03 to 2005-05
+- [Prototype JavaScript Framework created](http://en.wikipedia.org/wiki/Prototype_JavaScript_Framework)
+  by Sam Stephenson; included with Ruby on Rails, it's one of the first
+  JavaScript libraries to include specific mechanisms for building
+  XHR-driven applications.
+
+## 2005-03 to 2005-06
 
 - [Cross-document messaging (`postMessage`)](http://web.archive.org/web/20050301091946/http://whatwg.org/specs/web-apps/current-work/)
   first specified, as part of Web Applications 1.0.
+
+- [CouchDB created](http://en.wikipedia.org/wiki/CouchDB#History)
+  by Damien Katz; it's notable in being intended as a "database that
+  completely embraces the web" -- using JSON, JavaScript, and HTTP, and
+  fundamentally designed for serving Web applications. (More specifically,
+  it's schema-less and non-relational, storing data as JSON-formatted
+  semi-structured documents, built on a non-SQL, JavaScript-based query
+  mechanism -- with a MapReduce-driven view model -- and with a RESTful
+  HTTP API for consuming and exposing data in JSON (PUT/POST data as JSON
+  objects, and GET results as JSON objects).
 
 - [Acid2](http://en.wikipedia.org/wiki/Acid2) published as a means to test
   the level of standards conformance in Web browsers.
 
 - [Opera 8](http://en.wikipedia.org/wiki/History_of_the_Opera_web_browser#Version_8)
-  released; notable in that it is the first release version of Opera with
+  released; notable in that it's the first release version of Opera with
   (limited) XHR support.
 
 - [The Web Platform - Browsers and Applications](http://www.w3.org/2005/Talks/0513-webplatform/)
@@ -134,6 +155,11 @@
   technologies made available in browsers, for building modern Web
   applications.
 
+- [script.aculo.us created](http://en.wikipedia.org/wiki/Script.aculo.us)
+  by Thomas Fuchs; built on top of the Prototype JavaScript Framework and
+  included in Ruby on Rails, it's one of the first "Ajax" script libraries
+  to come into wide use.
+
 ## 2005-07 to 2005-11
 
 - [`<!DOCTYPE html>` (HTML5 doctype) first introduced](http://web.archive.org/web/20050701075402/http://www.whatwg.org/specs/web-apps/current-work/).
@@ -141,10 +167,10 @@
 - [Client-side local storage](http://www.whatwg.org/specs/web-apps/2005-09-01/)
   first specified, as part of Web Applications 1.0.
 
-- [del.icio.us begins providing a REST API that makes data available in JSON](http://inkdroid.org/journal/2005/09/21/delicious-json/);
+- [del.icio.us begins providing a RESTful HTTP API that makes data available in JSON](http://inkdroid.org/journal/2005/09/21/delicious-json/);
   within the next three years, Flickr, Yahoo, Google, and most other major
-  providers of Web-based services begin to provide APIs that expose data
-  formatted in JSON.
+  providers of Web-based services begin to provide similar HTTP APIs that
+  expose data formatted in JSON.
 
 - [What Is Web 2.0](http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html)
   article by Tim O'Reilly. Subsequent discussions of the term *Web 2.0*
@@ -277,6 +303,8 @@
   published as a means to test the level of standards conformance in Web
   browsers.
 
+- [GitHub launched](https://github.com/blog/40-we-launched).
+
 - [SquirrelFish JavaScript engine announced](https://www.webkit.org/blog/189/announcing-squirrelfish/)
   by the Safari team at Apple (an incremental rewrite of the "JavaScriptCore"
   engine to turn it into a bytecode interpreter, resulting in large
@@ -298,7 +326,7 @@
   (`@keyframes` rule and `animation-*` properties).
 
 - [Internet Explorer version 8](http://en.wikipedia.org/wiki/Internet_Explorer#Windows_Internet_Explorer_8)
-  released; it is the first version of IE to pass [Acid2](http://en.wikipedia.org/wiki/Acid2).
+  released; it's the first version of IE to pass [Acid2](http://en.wikipedia.org/wiki/Acid2).
 
 ## 2010-02
 
