@@ -179,7 +179,10 @@
 
 ## 2006-07 to 2006-09
 
-- [Twitter launched](http://techcrunch.com/2006/07/15/is-twttr-interesting/).
+- [Twitter launched](http://techcrunch.com/2006/07/15/is-twttr-interesting/)
+  and
+  [Facebook opened](http://en.wikipedia.org/wiki/Timeline_of_Facebook#2006)
+  widely for all users to join.
 
 - [Web Forms 2.0 First Public Working Draft](http://www.w3.org/TR/2006/WD-web-forms-2-20060821/)
   published by W3C Web Application Formats Working Group.
@@ -188,9 +191,6 @@
   published.
 
 - [jQuery 1.0](http://blog.jquery.com/2006/08/26/jquery-10/) released.
-
-- [Facebook opened](http://en.wikipedia.org/wiki/Timeline_of_Facebook#2006)
-  for all users to join.
 
 ## 2006-10 to 2006-11
 
