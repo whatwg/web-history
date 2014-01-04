@@ -7,7 +7,7 @@
 
   > About 11 months ago, I mentioned that the W3C had so far failed to
   > address a need in the Web community: There is no language for Web
-  > applications... I intend to do something about this (hopefully within a
+  > applications[...] I intend to do something about this (hopefully within a
   > W3C context, although that will depend on the politics of the
   > situation).
 
@@ -39,7 +39,7 @@
   blog posting from Ian Hickson:
 
   > I've been taking the opportunity to work on a proposal for a Web
-  > Applications specification... something along the same lines as Web
+  > Applications specification[...] something along the same lines as Web
   > Forms 2, but specifically for client-side application development.
 
 ## 2004-04
@@ -57,7 +57,7 @@
 
   > Authors still want to write Web applications, and the currently
   > deployed standards are inadequate. Since completely new standards won't
-  > cut it [...] this leaves us with the solution we (Opera and Mozilla)
+  > cut it[...] this leaves us with the solution we (Opera and Mozilla)
   > have been advocating: updating HTML and the DOM.
 
 ## 2004-06
@@ -76,10 +76,10 @@
 
   > The dream of a new web, based on XHTML+SVG+SMIL+XForms, is just that --
   > a dream. It won't come true no matter how many toy implementations
-  > there are...  The best way to help the Web is to incrementally improve
+  > there are[...] The best way to help the Web is to incrementally improve
   > the existing web standards, with compatibility shims provided for IE,
   > so that web content authors can actually deploy new formats
-  > interoperably... Mozilla is joining with Opera and others to explore
+  > interoperably[...] Mozilla is joining with Opera and others to explore
   > the sort of incremental improvements to HTML proposed by us at the
   > workshop.
 
@@ -172,7 +172,7 @@
 
   > It's clear that standards and solutions [...] will enable the next
   > generation of applications. [...] AJAX is also a key component of Web
-  > 2.0 applications such as Flickr [...] We're entering an unprecedented
+  > 2.0 applications such as Flickr[...] We're entering an unprecedented
   > period of user interface innovation, as web developers are finally able
   > to build web applications as rich as local PC-based applications.
 
@@ -234,7 +234,7 @@
   > Some things are clearer with hindsight of several years. It is
   > necessary to evolve HTML incrementally. The attempt to get the world to
   > switch to XML, including quotes around attribute values and slashes in
-  > empty tags and namespaces all at once didn't work... The plan is to
+  > empty tags and namespaces all at once didn't work[...] The plan is to
   > charter a completely new HTML group. Unlike the previous one, this one
   > will be chartered to do incremental improvements to HTML, as also in
   > parallel xHTML.
@@ -348,12 +348,12 @@
 - [Steve Jobs "Thoughts on Flash"](http://www.apple.com/hotnews/thoughts-on-flash/);
   excerpt:
 
-  > ...the mobile era is about low power devices, touch interfaces and open
-  > web standards – all areas where Flash falls short [‥.] Rather than use
-  > Flash, Apple has adopted HTML5, CSS and JavaScript – all open standards
-  > [...]  Perhaps Adobe should focus more on creating great HTML5 tools
-  > for the future, and less on criticizing Apple for leaving the past
-  > behind.
+  > [...] the mobile era is about low power devices, touch interfaces and
+  > open web standards – all areas where Flash falls short[‥.] Rather than
+  > use Flash, Apple has adopted HTML5, CSS and JavaScript – all open
+  > standards[...] Perhaps Adobe should focus more on creating great HTML5
+  > tools for the future, and less on criticizing Apple for leaving the
+  > past behind.
 
 ## 2011-03
 
