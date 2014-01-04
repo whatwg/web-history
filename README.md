@@ -88,7 +88,7 @@
 
 ## 2004-07 to 2005-02
 
-- [HTML `canvas` element created by the Safari team at Apple](http://ln.hixie.ch/?start=1089635050&count=1).
+- [HTML `canvas` element created by the Safari team at Apple](http://ln.hixie.ch/?start=1089635050&count=1)
   and
   [first specified as part of Web Applications 1.0](http://web.archive.org/web/20041009144718/http://whatwg.org/specs/web-apps/current-work/).
 
@@ -115,7 +115,8 @@
   the level of standards conformance in Web browsers.
 
 - [Opera 8](http://en.wikipedia.org/wiki/History_of_the_Opera_web_browser#Version_8)
-  released; first release version of Opera with (limited) XHR support.
+  released; notable in that it is the first release version of Opera with
+  (limited) XHR support.
 
 - [The Web Platform - Browsers and Applications](http://www.w3.org/2005/Talks/0513-webplatform/)
   talk presented by Dean Jackson in the W3C track at WWW2005, with the
