@@ -278,9 +278,9 @@
 - [`video` and `audio` elements added to the HTML spec](http://html5.org/r/394-699).
 
 - [Google Gears](http://gearsblog.blogspot.com/2007/05/posted-by-aaron-boodman-and-erik.html)
-  released; some of its key features eventually become standard parts of
-  the Web platform, and by the end of 2009 its development will end up
-  being permanently halted.
+  released; some of its key features, such as its "workerpool" mechanism,
+  eventually become standard parts of the Web platform, and by the end of
+  2009 its development will end up being permanently halted.
 
 ## 2007-06 to 2007-12
 
