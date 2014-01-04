@@ -95,14 +95,13 @@
 
 ## 2004-10, 2005-02
 
-- [Google Suggest launched](http://labs.google.com/suggestfaq.html)
-  in beta.
-
 - [Web 2.0 Conference](http://web.archive.org/web/20041001091530/www.web2con.com/pub/w/32/program.html)
   first takes place in San Francisco, eventually causing the term <i>Web 2.0</i>
   to be brought into general use.
 
-- [Google Maps launched](http://en.wikipedia.org/wiki/Google_maps#Development_history)
+- [Google Suggest launched](http://labs.google.com/suggestfaq.html)
+  and 
+  [Google Maps launched](http://en.wikipedia.org/wiki/Google_maps#Development_history)
   in beta with support across all major browsers (Internet Explorer, Mozilla,
   Opera, and Safari).
 
