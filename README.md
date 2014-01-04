@@ -236,8 +236,9 @@
   (`applicationCache` interface, <i>aka</i> appCache)
 
 - [CSS Transforms](https://www.webkit.org/blog/130/css-transforms/) 
-  (`transform-*` properties) and [CSS Transitions](https://www.webkit.org/blog/138/css-animation/)
-  (`transition-*` properties) created by the Safari team at Apple.
+  and
+  [CSS Transitions](https://www.webkit.org/blog/138/css-animation/)
+  (`transform-*` and `transition-*` properties) created by the Safari team at Apple.
 
 - [Downloadable-fonts support added to WebKit](https://www.webkit.org/blog/124/downloadable-fonts/);
   (`@font-face` rule). Eventually, by mid-2009, downloadable fonts will be
