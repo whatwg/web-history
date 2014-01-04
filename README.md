@@ -99,7 +99,7 @@
   first takes place in San Francisco, eventually causing the term <i>Web 2.0</i>
   to be brought into general use.
 
-- [Google Suggest launched](http://labs.google.com/suggestfaq.html)
+- [Google Suggest](http://labs.google.com/suggestfaq.html)
   and 
   [Google Maps launched](http://en.wikipedia.org/wiki/Google_maps#Development_history)
   in beta with support across all major browsers (Internet Explorer, Mozilla,
