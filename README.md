@@ -114,7 +114,7 @@
 
 ## 2005-02
 
-  [Google Maps launched](http://en.wikipedia.org/wiki/Google_maps#History)
+- [Google Maps launched](http://en.wikipedia.org/wiki/Google_maps#History)
   in beta with support across all major browsers (Internet Explorer, Mozilla,
   Opera, and Safari), following just after the launch, two months earlier, of
   [Google Suggest](http://googleblog.blogspot.com/2004/12/ive-got-suggestion.html)
