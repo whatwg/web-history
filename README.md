@@ -371,7 +371,7 @@
   by the W3C WebRTC Working Group to create the
   [WebRTC spec](http://dev.w3.org/2011/webrtc/editor/webrtc.html), but even
   at this point in 2011 when it was first introduced, it already provided
-  for all of the following (excerpt from the Introduction to the section):
+  for all of the following:
 
   > Getting a multimedia stream (video, audio, or both) from local devices
   > (video cameras, microphones, Web cams) or from prerecorded files
