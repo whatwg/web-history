@@ -17,7 +17,9 @@
   ["tagging" features inspired by del.icio.us](http://en.wikipedia.org/wiki/Tag_%28metadata%29#History),
   and eventually moving to provide APIs to expose Flickr for data using in
   other sites and Web applications, it will go on to be often cited as a
-  key example of a "Web 2.0" site/service.
+  key example of a
+  ["Web 2.0"](http://en.wikipedia.org/wiki/Web_2.0)
+  site/service.
 
 - [Gmail launched](http://en.wikipedia.org/wiki/Gmail)
   in invitation-only beta, and
