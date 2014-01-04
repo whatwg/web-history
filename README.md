@@ -87,13 +87,11 @@
   > the sort of incremental improvements to HTML proposed by us at the
   > workshop.
 
-## 2004-07, 2004-09
+## 2004-07 to 2005-02
 
 - [HTML `canvas` element created by the Safari team at Apple](http://ln.hixie.ch/?start=1089635050&count=1).
   and
   [first specified as part of Web Applications 1.0](http://web.archive.org/web/20041009144718/http://whatwg.org/specs/web-apps/current-work/).
-
-## 2004-10, 2005-02
 
 - [Web 2.0 Conference](http://web.archive.org/web/20041001091530/www.web2con.com/pub/w/32/program.html)
   first takes place in San Francisco, eventually causing the term <i>Web 2.0</i>
@@ -109,20 +107,16 @@
   by Jesse James Garrett (coining the term <i>Ajax</i> to describe the use
   of XHR in modern Web applications).
 
-## 2005-03
+## 2005-03 to 2005-05
 
 - [Cross-document messaging (`postMessage`)](http://web.archive.org/web/20050301091946/http://whatwg.org/specs/web-apps/current-work/)
   first specified, as part of Web Applications 1.0.
-
-## 2005-04
 
 - [Acid2](http://en.wikipedia.org/wiki/Acid2) published as a means to test
   the level of standards conformance in Web browsers.
 
 - [Opera 8](http://en.wikipedia.org/wiki/History_of_the_Opera_web_browser#Version_8)
   released; first release version of Opera with (limited) XHR support.
-
-## 2005-05
 
 - [The Web Platform - Browsers and Applications](http://www.w3.org/2005/Talks/0513-webplatform/)
   talk presented by Dean Jackson in the W3C track at WWW2005, with the
@@ -137,11 +131,9 @@
   increasing use, specifically for the standard set of client-side browser
   technologies available for building modern Web applications.
 
-## 2005-07
+## 2005-07 to 2005-11
 
 - [`<!DOCTYPE html>` (HTML5 doctype) first introduced](http://web.archive.org/web/20050701075402/http://www.whatwg.org/specs/web-apps/current-work/).
-
-## 2005-09
 
 - [Client-side local storage](http://www.whatwg.org/specs/web-apps/2005-09-01/)
   first specified, as part of Web Applications 1.0.
@@ -161,14 +153,12 @@
   > period of user interface innovation, as web developers are finally able
   > to build web applications as rich as local PC-based applications.
 
-## 2005-11
-
 - [Web API](http://www.w3.org/2006/webapi/) and
   [Web Application Formats](http://www.w3.org/2006/appformats/)
   Working Groups chartered at the launch of the W3C
   [Rich Web Client Activity](http://www.w3.org/News/2005#x200501115c).
 
-## 2006-01
+## 2006-01 to 2006-02
 
 - [Firebug](https://addons.mozilla.org/en-US/firefox/addon/firebug/versions/?page=5#version-0.2)
   first version released.
@@ -184,16 +174,12 @@
   Web-based services had already started to provide APIs that exposed data
   formatted in JSON.
 
-## 2006-02
-
 - [HTML parsing algorithm](http://web.archive.org/web/20060202011253/http://whatwg.org/specs/web-apps/current-work/)
   first specified, as part of Web Applications 1.0.
 
-## 2006-07
+## 2006-07 to 2006-09
 
 - [Twitter launched](http://techcrunch.com/2006/07/15/is-twttr-interesting/).
-
-## 2006-08
 
 - [Web Forms 2.0 First Public Working Draft](http://www.w3.org/TR/2006/WD-web-forms-2-20060821/)
   published by W3C Web Application Formats Working Group.
@@ -203,12 +189,10 @@
 
 - [jQuery 1.0](http://blog.jquery.com/2006/08/26/jquery-10/) released.
 
-## 2006-09
-
 - [Facebook opened](http://en.wikipedia.org/wiki/Timeline_of_Facebook#2006)
   for all users to join.
 
-## 2006-10
+## 2006-10 to 2006-11
 
 - [Internet Explorer version 7](http://en.wikipedia.org/wiki/Internet_Explorer#Version_7)
   released with CSS and DOM improvements -- five years after the release of IE6.
@@ -224,8 +208,6 @@
   > will be chartered to do incremental improvements to HTML, as also in
   > parallel xHTML.
 
-## 2006-11
-
 - [Proposed charter](http://lists.w3.org/Archives/Public/www-archive/2006Nov/0045.html)
   for HTML Working group posted by Ian Hickson (following
   [the earlier posting of shorter proposed charter](http://lists.w3.org/Archives/Public/www-archive/2006Nov/0000.html),
@@ -233,7 +215,7 @@
   and some
   [public discussion about charter review](http://lists.w3.org/Archives/Public/www-archive/2006Nov/thread.html#msg53)).
 
-## 2007-03
+## 2007-03 to 2007-05
 
 - [Fifth W3C HTML Working Group](http://www.w3.org/2007/03/HTML-WG-charter.html)
   chartered (though only the second W3C HTML working group to focus on the core
@@ -244,8 +226,6 @@
   documents and applications on the World Wide Web.</i>
 
 - [`video` and `audio` elements added to the HTML spec](http://html5.org/r/394-699).
-
-## 2007-05
 
 - [Google Gears](http://gearsblog.blogspot.com/2007/05/posted-by-aaron-boodman-and-erik.html)
   released; some of its key features eventually become standard parts of
@@ -260,7 +240,7 @@
   significantly more mobile Web-browsing traffic than any other mobile
   device.
 
-## 2007-10
+## 2007-10 to 2007-12
 
 - [HTML "offline Web applications" feature introduced](http://html5.org/tools/web-apps-tracker?from=848&to=1115)
   (`applicationCache` interface, <i>aka</i> appCache)
@@ -281,23 +261,18 @@
   on the market, and help to initiate a JavaScript-engine performance race
   among browser projects, starting in mid-2008.
 
-## 2007-10
-
 - [SunSpider JavaScript benchmark introduced](https://www.webkit.org/blog/152/announcing-sunspider-09/)
   by the Safari team at Apple; during the latter half of 2008 and after, it
   will become widely used by other major browser projects in documenting
   the relative performance improvements in their JavaScript engines.
 
-## 2008-01
+## 2008-01 to 2008-07
 
 - [First W3C Working Draft of HTML5 published](http://www.w3.org/News/2008.html#entry-6935).
 
-## 2008-03
-
-- [Acid3](http://en.wikipedia.org/wiki/Acid3) published as a means to test
-  the level of standards conformance in Web browsers.
-
-## 2008-06
+- [Acid3](http://en.wikipedia.org/wiki/Acid3)
+  published as a means to test the level of standards conformance in Web
+  browsers.
 
 - [SquirrelFish JavaScript engine announced](https://www.webkit.org/blog/189/announcing-squirrelfish/)
   by the Safari team at Apple (an incremental rewrite of the "JavaScriptCore"
@@ -305,17 +280,13 @@
   performance improvements); during the following months, browser projects
   rewrite their JavaScript engines in a race to improve performance.
 
-## 2008-07
-
 - [Web Sockets and Web Workers](http://html5.org/tools/web-apps-tracker?from=1835&to=1968)
   first specified.
 
-## 2009-02
+## 2009-02 to 2009-03
 
 - [CSS Animations created by the Safari team at Apple](https://www.webkit.org/blog/324/css-animation-2/)
   (`@keyframes` rule and `animation-*` properties).
-
-## 2009-03
 
 - [Internet Explorer version 8](http://en.wikipedia.org/wiki/Internet_Explorer#Windows_Internet_Explorer_8)
   released; it is the first version of IE to pass [Acid2](http://en.wikipedia.org/wiki/Acid2).
