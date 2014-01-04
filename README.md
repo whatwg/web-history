@@ -56,15 +56,25 @@
 
 ## 2004-06
 
-### 2004-06-02: W3C Workshop on Web Applications and Compound Documents
+- [WHATWG launched](http://www.whatwg.org/news/start); announcement:
 
-- [W3C Workshop on Web Applications and Compound Documents](http://www.w3.org/2004/04/webapps-cdf-ws/)
-  held at Adobe offices in San Jose; Opera and Mozilla jointly submit and
-  present a position paper with a set of proposed
+  > The group aims to develop specifications based on HTML and related
+  > technologies to ease the deployment of interoperable Web Applications
+  > [...] for implementation in mass-market Web browsers, in particular
+  > Safari, Mozilla, and Opera; [the group] intends to ensure that all its
+  > specifications address backwards compatibility concerns [...] and
+  > specify error handling behavior to ensure interoperability even in the
+  > face of documents that do not comply to the letter of the
+  > specifications.
+
+  The announcement of the launch of the WHATWG follows just after a
+  [W3C Workshop on Web Applications and Compound Documents](http://www.w3.org/2004/04/webapps-cdf-ws/)
+  held at Adobe offices in San Jose. For the workshop, Opera and Mozilla
+  jointly submit and present a position paper with a set of proposed
   [Design Principles for Web Application Technologies](http://www.w3.org/2004/04/webapps-cdf-ws/papers/opera.html);
   but some
   [subsequent blog postings](http://www.w3.org/html/wg/wiki/2004WebAppsWorkshop/reactions)
-  from Brendan Eich, David Baron, and Ian Hickson make it clear that they have
+  from Brendan Eich, David Baron, and Ian Hickson make it clear that they've
   come away from the workshop with a realization that their goals with respect
   to Web applications are not in sync with others in attendance. Brendan Eich:
 
@@ -77,29 +87,13 @@
   > the sort of incremental improvements to HTML proposed by us at the
   > workshop.
 
-### 2004-06-04: WHATWG launched
+## 2004-07, 2004-09
 
-- [WHATWG launched](http://www.whatwg.org/news/start)
+- [HTML `canvas` element created by the Safari team at Apple](http://ln.hixie.ch/?start=1089635050&count=1).
+  and shortly after
+  [first specified as part of Web Applications 1.0](http://web.archive.org/web/20041009144718/http://whatwg.org/specs/web-apps/current-work/).
 
-  > The group aims to develop specifications based on HTML and related
-  > technologies to ease the deployment of interoperable Web Applications
-  > [...] for implementation in mass-market Web browsers, in particular
-  > Safari, Mozilla, and Opera; [the group] intends to ensure that all its
-  > specifications address backwards compatibility concerns [...] and
-  > specify error handling behavior to ensure interoperability even in the
-  > face of documents that do not comply to the letter of the
-  > specifications.
-
-## 2004-07
-
-- [HTML `canvas` element created by Safari team](http://ln.hixie.ch/?start=1089635050&count=1).
-
-## 2004-09
-
-- [HTML `canvas` element first specified](http://web.archive.org/web/20041009144718/http://whatwg.org/specs/web-apps/current-work/),
-  as part of Web Applications 1.0.
-
-## 2004-10
+## 2004-10, 2005-02
 
 - [Google Suggest launched](http://labs.google.com/suggestfaq.html)
   in beta.
@@ -107,8 +101,6 @@
 - [Web 2.0 Conference](http://web.archive.org/web/20041001091530/www.web2con.com/pub/w/32/program.html)
   first takes place in San Francisco, eventually causing the term <i>Web 2.0</i>
   to be brought into general use.
-
-## 2005-02
 
 - [Google Maps launched](http://en.wikipedia.org/wiki/Google_maps#Development_history)
   in beta with support across all major browsers (Internet Explorer, Mozilla,
@@ -131,7 +123,7 @@
 - [Opera 8](http://en.wikipedia.org/wiki/History_of_the_Opera_web_browser#Version_8)
   released; first release version of Opera with (limited) XHR support.
 
-## 2005-04
+## 2005-05
 
 - [The Web Platform - Browsers and Applications](http://www.w3.org/2005/Talks/0513-webplatform/)
   talk presented by Dean Jackson in the W3C track at WWW2005, with the
@@ -274,11 +266,9 @@
 - [HTML "offline Web applications" feature introduced](http://html5.org/tools/web-apps-tracker?from=848&to=1115)
   (`applicationCache` interface, <i>aka</i> appCache)
 
-- [CSS Transforms created by Safari team](https://www.webkit.org/blog/130/css-transforms/)
-  (`transform-*` properties)
-
-- [CSS Transitions created by Safari team](https://www.webkit.org/blog/138/css-animation/)
-  (`transition-*` properties)
+- [CSS Transforms](https://www.webkit.org/blog/130/css-transforms/) 
+  (`transform-*` properties) and [CSS Transitions](https://www.webkit.org/blog/138/css-animation/)
+  (`transition-*` properties) created by the Safari team at Apple.
 
 - [Downloadable-fonts support added to WebKit](https://www.webkit.org/blog/124/downloadable-fonts/);
   (`@font-face` rule). Eventually, by mid-2009, downloadable fonts will be
@@ -295,9 +285,9 @@
 ## 2007-10
 
 - [SunSpider JavaScript benchmark introduced](https://www.webkit.org/blog/152/announcing-sunspider-09/)
-  by the Safari team; during the latter half of 2008 and after, it will
-  become widely used by other major browser projects in documenting the
-  relative performance improvements in their JavaScript engines.
+  by the Safari team at Apple; during the latter half of 2008 and after, it
+  will become widely used by other major browser projects in documenting
+  the relative performance improvements in their JavaScript engines.
 
 ## 2008-01
 
@@ -311,10 +301,10 @@
 ## 2008-06
 
 - [SquirrelFish JavaScript engine announced](https://www.webkit.org/blog/189/announcing-squirrelfish/)
-  by the Safari team (an incremental rewrite of the "JavaScriptCore" engine
-  to turn it into a bytecode interpreter, resulting in large performance
-  improvements); during the following months, browser projects rewrite
-  their JavaScript engines in a race to improve performance.
+  by the Safari team at Apple (an incremental rewrite of the "JavaScriptCore"
+  engine to turn it into a bytecode interpreter, resulting in large
+  performance improvements); during the following months, browser projects
+  rewrite their JavaScript engines in a race to improve performance.
 
 ## 2008-07
 
@@ -323,7 +313,7 @@
 
 ## 2009-02
 
-- [CSS Animations created by Safari team](https://www.webkit.org/blog/324/css-animation-2/)
+- [CSS Animations created by the Safari team at Apple](https://www.webkit.org/blog/324/css-animation-2/)
   (`@keyframes` rule and `animation-*` properties).
 
 ## 2009-03
