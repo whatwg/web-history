@@ -207,10 +207,11 @@
   percentage of worldwide mobile Web-browsing traffic.
 
 - [JSON Internet Draft published](http://ietfreport.isoc.org/all-ids/draft-crockford-jsonorg-json-00.txt)
-  by Doug Crockford; however, it had already been documented by Crockford
-  elsewhere going back to at least late 2002, and a number of major
-  Web-based services had already started to provide APIs that exposed data
-  formatted in JSON.
+  by Doug Crockford; however, it
+  [had already been documented by Crockford elsewhere](https://web.archive.org/web/20030417010540/http://www.crockford.com/JSON/)
+  going back to at least late 2002, and a number of major Web-based
+  services had already started to provide APIs that exposed data formatted
+  in JSON.
 
 - [HTML parsing algorithm](http://web.archive.org/web/20060202011253/http://whatwg.org/specs/web-apps/current-work/)
   first specified, as part of Web Applications 1.0.
