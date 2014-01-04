@@ -177,19 +177,14 @@
 - [HTML parsing algorithm](http://web.archive.org/web/20060202011253/http://whatwg.org/specs/web-apps/current-work/)
   first specified, as part of Web Applications 1.0.
 
-## 2006-07 to 2006-09
+## 2006-07 to 2006-11
 
 - [Twitter launched](http://techcrunch.com/2006/07/15/is-twttr-interesting/)
   and
   [Facebook opened](http://en.wikipedia.org/wiki/Timeline_of_Facebook#2006)
   widely for all users to join.
 
-- [Web Forms 2.0 First Public Working Draft](http://www.w3.org/TR/2006/WD-web-forms-2-20060821/)
-  published by W3C Web Application Formats Working Group.
-
 - [jQuery 1.0](http://blog.jquery.com/2006/08/26/jquery-10/) released.
-
-## 2006-10 to 2006-11
 
 - [Internet Explorer version 7](http://en.wikipedia.org/wiki/Internet_Explorer#Version_7)
   released with CSS and DOM improvements -- five years after the release of IE6.
