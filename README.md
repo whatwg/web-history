@@ -4,8 +4,8 @@
 
 - [CSS 2.1 Candidate Recommendation (CR)](http://www.w3.org/TR/2004/CR-CSS21-20040225/)
   published; the spec will later go back to normal Working Draft status for
-  a time before returning again to CR in July 2007, and then be published
-  as a final W3C Recommendation in June 2011.
+  a time and then return again to CR in July 2007, before finally being
+  published, in June 2011, as a full W3C Recommendation>
 
 - [Safari 1.2](http://weblogs.mozillazine.org/hyatt/archives/2004_02.html#004874)
   released; notable in that it's the first version of Safari with
