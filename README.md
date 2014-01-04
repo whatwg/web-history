@@ -349,11 +349,11 @@
   excerpt:
 
   > ...the mobile era is about low power devices, touch interfaces and open
-  > web standards – all areas where Flash falls short‥. Rather than use
-  > Flash, Apple has adopted HTML5, CSS and JavaScript – all open
-  > standards...  Perhaps Adobe should focus more on creating great HTML5
-  > tools for the future, and less on criticizing Apple for leaving the
-  > past behind.
+  > web standards – all areas where Flash falls short [‥.] Rather than use
+  > Flash, Apple has adopted HTML5, CSS and JavaScript – all open standards
+  > [...]  Perhaps Adobe should focus more on creating great HTML5 tools
+  > for the future, and less on criticizing Apple for leaving the past
+  > behind.
 
 ## 2011-03
 
@@ -405,4 +405,5 @@
   > Increasingly, rich motion graphics are being deployed directly via the
   > browser using HTML5, CSS3, JavaScript and other modern web
   > technologies. Adobe expects that this trend will continue and
-  > accelerate, and Adobe will continue to
+  > accelerate, and Adobe will continue to play an active role in this
+  > space.
