@@ -90,7 +90,7 @@
 ## 2004-07, 2004-09
 
 - [HTML `canvas` element created by the Safari team at Apple](http://ln.hixie.ch/?start=1089635050&count=1).
-  and shortly after
+  and
   [first specified as part of Web Applications 1.0](http://web.archive.org/web/20041009144718/http://whatwg.org/specs/web-apps/current-work/).
 
 ## 2004-10, 2005-02
