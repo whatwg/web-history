@@ -51,7 +51,7 @@
 
   > Authors still want to write Web applications, and the currently
   > deployed standards are inadequate. Since completely new standards won't
-  > cut it[...] this leaves us with the solution we (Opera and Mozilla)
+  > cut it [...] this leaves us with the solution we (Opera and Mozilla)
   > have been advocating: updating HTML and the DOM.
 
 ## 2004-06
