@@ -11,9 +11,6 @@
   released; first version of Safari with XMLHttpRequest (XHR) support
   (following Internet Explorer and Firefox).
 
-- [Facebook launched](http://en.wikipedia.org/wiki/Timeline_of_Facebook#2004),
-  with membership initially restricted to students of Harvard University.
-
 - [Flickr launched](http://en.wikipedia.org/wiki/Flickr); making
   innovative use of XHR and client-side browser technologies to drive its
   user interface, adding
@@ -22,10 +19,13 @@
   other sites and Web applications, it will go on to be often cited as a
   key example of a "Web 2.0" site/service.
 
-## 2004-04
-
 - [Gmail launched](http://en.wikipedia.org/wiki/Gmail)
   in invitation-only beta.
+
+- [Facebook launched](http://en.wikipedia.org/wiki/Timeline_of_Facebook#2004),
+  with membership initially restricted to students of Harvard University.
+
+## 2004-04
 
 - [Web Applications 1.0](http://www.hixie.ch/specs/html/apps/web-apps-1);
   first public draft of what will eventually become the HTML5 spec.
