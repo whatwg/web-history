@@ -19,8 +19,8 @@
   user interface, adding
   ["tagging" features inspired by del.icio.us](http://en.wikipedia.org/wiki/Tag_%28metadata%29#History),
   and eventually moving to provide APIs to expose Flickr for data using in
-  other sites and in modern Web applications, it will go on to be often
-  cited as a key example of a "Web 2.0" site/service.
+  other sites and Web applications, it will go on to be often cited as a
+  key example of a "Web 2.0" site/service.
 
 ## 2004-04
 
