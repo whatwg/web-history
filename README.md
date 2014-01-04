@@ -21,7 +21,7 @@
   ["Web 2.0"](http://en.wikipedia.org/wiki/Web_2.0)
   site/service.
 
-- [Gmail launched](http://en.wikipedia.org/wiki/Gmail)
+- [Gmail launched](http://en.wikipedia.org/wiki/Gmail),
   in invitation-only beta, and
   [Facebook launched](http://en.wikipedia.org/wiki/Timeline_of_Facebook#2004),
   with membership initially restricted to students of Harvard University.
