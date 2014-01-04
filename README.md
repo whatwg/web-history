@@ -30,11 +30,12 @@
 - [Web Applications 1.0](http://www.hixie.ch/specs/html/apps/web-apps-1);
   first public draft of what will eventually become the HTML5 spec.
 
-- The publication of the draft follows a couple of blog postings that from
-  Ian Hickson earlier in the year, 
+  The publication of the draft follows a couple of blog postings from Ian
+  Hickson earlier in the year, 
   [Ramblings from the North](http://ln.hixie.ch/?start=1080506019&count=1)
   and
-  [Void filling: Web Applications Language](http://ln.hixie.ch/?start=1074466808&count=1):
+  [Void filling: Web Applications Language](http://ln.hixie.ch/?start=1074466808&count=1),
+  in which Hickson writes:
 
   > About 11 months ago, I mentioned that the W3C had so far failed to
   > address a need in the Web community: There is no language for Web
