@@ -346,7 +346,7 @@
   specifications that enable improved client-side application development
   on the Web*
 
-- [Geolocation API first Editor's Draft written and announced](http://lists.w3.org/Archives/Public/public-geolocation/2008Jun/0000.html)j
+- [Geolocation API first Editor's Draft written and announced](http://lists.w3.org/Archives/Public/public-geolocation/2008Jun/0000.html)
   by Andrei Popescu.
 
 ## 2008-07 to 2008-10
