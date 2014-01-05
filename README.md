@@ -159,7 +159,8 @@
 
 - [Opera 8](http://en.wikipedia.org/wiki/History_of_the_Opera_web_browser#Version_8)
   released; notable in that it's the first release version of Opera with
-  (limited) XHR support.
+  (limited) XHR support, which finally makes XHR available across all major
+  browser engines.
 
 - [The Web Platform - Browsers and Applications](http://www.w3.org/2005/Talks/0513-webplatform/)
   talk presented by Dean Jackson in the W3C track at WWW2005, with the
@@ -357,8 +358,8 @@
   the first implementation of the Geolocation API to be made available.
 
 - [Firefox developer builds begin shipping with TraceMonkey](http://news.cnet.com/8301-1001_3-10023723-92.html),
-  a JIT-based JavaScript engine that compiles JavaScript to native machine
-  code, providing greatly improved JavaScript performance.
+  a JIT-based JavaScript engine (compiling JavaScript to native machine
+  code) that provides greatly improved JavaScript performance.
 
 - [Google Chrome first released](http://googleblog.blogspot.jp/2008/09/google-chrome-now-live.html),
   with WebKit as its browser engine, and notable for being the first
