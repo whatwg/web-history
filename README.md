@@ -207,14 +207,14 @@
   Working Groups chartered at the launch of the W3C
   [Rich Web Client Activity](http://www.w3.org/News/2005#x200501115c).
 
-  The mission of Web API Working Group is described as being to "enable
+  The Web API Working Group mission is described as being to "enable
   improved client-side application development on the Web" and its a scope
   includes, among other things, documenting the Window and XMLHttpRequest
-  interfaces, and the `setTimeout` method, as well as specifying "network
-  communication methods" and a mechanism for "persistent storage on the
-  client" to facilitate "more advanced Web applications, enabling them to
-  store user preferences and possibly work in an offline environment, such
-  as a laptop or mobile phone with intermittent connectivity".
+  (XHR) interfaces and the `setTimeout` method, as well as specifying
+  "network communication methods" and a means for "persistent storage on
+  the client" to facilitate "more advanced Web applications, enabling them
+  to store user preferences and possibly work in an offline environment,
+  such as a laptop or mobile phone with intermittent connectivity".
 
 ## 2006-01 to 2006-02
 
