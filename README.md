@@ -346,9 +346,15 @@
   specifications that enable improved client-side application development
   on the Web*
 
-## 2008-07 to 2008-09
+- [Geolocation API first Editor's Draft written and announced](http://lists.w3.org/Archives/Public/public-geolocation/2008Jun/0000.html)j
+  by Andrei Popescu.
+
+## 2008-07 to 2008-10
 
 - [Web Sockets and Web Workers first specified](http://html5.org/tools/web-apps-tracker?from=1835&to=1968).
+
+- [Geolocation API ships in Google Gears 0.4](http://gearsblog.blogspot.jp/2008/08/gears-04-is-here.html),
+  the first implementation of the Geolocation API to be made available.
 
 - [Firefox developer builds begin shipping with TraceMonkey](http://news.cnet.com/8301-1001_3-10023723-92.html),
   a JIT-based JavaScript engine that compiles JavaScript to native machine
@@ -381,7 +387,9 @@
   mobile-browsing traffic by the end of 2010, when Android becomes the
   most widely used smartphone platform worldwide.
 
-## 2009-02 to 2009-03
+- [Geolocation API ships in Firefox 3.1 beta](http://arstechnica.com/information-technology/2008/10/first-look-firefox-3-1-beta-1-officially-released/).
+
+## 2009-02 to 2009-06
 
 - [CSS Animations created by the Safari team at Apple](https://www.webkit.org/blog/324/css-animation-2/)
   (`@keyframes` rule and `animation-*` properties).
@@ -389,14 +397,17 @@
 - [Internet Explorer version 8](http://en.wikipedia.org/wiki/Internet_Explorer#Windows_Internet_Explorer_8)
   released; it is the first version of IE to pass [Acid2](http://en.wikipedia.org/wiki/Acid2).
 
-## 2009-05
-
 - [Node.js first released](https://github.com/joyent/node/commit/80eed19612db0fe54191683e8a9f0bc5c1ca4ff6)
   by Ryan Dahl; it's a software platform notable for being built around the
   V8 JavaScript engine -- providing a way for developers to do server-side
   development in JavaScript using a non-threaded, non-blocking "evented
   I/O"-based, asynchronous callback-driven programming model similar to the
   client-side event-loop-based programming model provided by Web browsers.
+
+- [Geolocation API support ships in i0S 3.0](http://radar.oreilly.com/2009/06/geolocating-your-iphone-users.html),
+  making the iPhone the first mobile device with native support for the
+  Geolocation API in its browser. (Support for Android devices will ship a
+  few months later, in Android 2.0).
 
 ## 2009-09
 
@@ -428,8 +439,8 @@
 ## 2011-03
 
 - [Internet Explorer version 9](http://en.wikipedia.org/wiki/Internet_Explorer_9)
-  released, with major improvements in standards support (including
-  support for SVG and the HTML `canvas` and `video` elements).
+  released, with major improvements in standards support (including support
+  for the Geolocation API, SVG and the HTML `canvas` and `video` elements).
 
 - [Video conferencing and peer-to-peer communication](http://html5.org/tools/web-apps-tracker?from=5944&to=5945)
   section added to the WHATWG HTML spec by Ian Hickson.
