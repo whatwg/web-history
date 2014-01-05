@@ -311,7 +311,7 @@
   among browser projects, starting in mid-2008.
 
 - [Android mobile-device platform announced](http://www.openhandsetalliance.com/press_110507.html);
-  it is notable for including a mobile browser that uses WebKit as the
+  it is notable for including a mobile browser that uses WebKit as its
   browser engine; however, it will be nearly a year before any Android
   devices actually begin to ship.
 
