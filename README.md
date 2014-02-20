@@ -29,11 +29,11 @@
 ## 2004-04
 
 - [Web Applications 1.0 first public draft published](http://www.hixie.ch/specs/html/apps/web-apps-1)
-  by Ian Hickson (the document will eventually from the basis for the HTML5
+  by Ian Hickson (the document will eventually form the basis for the HTML5
   spec).
 
   The publication of the Web Applications 1.0 first draft follows a couple
-  of blog postings from Ian Hickson earlier in the year, 
+  of blog postings from Ian Hickson earlier in the year,
   [Ramblings from the North](http://ln.hixie.ch/?start=1080506019&count=1)
   and
   [Void filling: Web Applications Language](http://ln.hixie.ch/?start=1074466808&count=1),
@@ -46,7 +46,7 @@
   > same lines as Web Forms 2, but specifically for client-side application
   > development.
 
-  In the following month, Hickson writes a related 
+  In the following month, Hickson writes a related
   [Backwards Compatibility](http://ln.hixie.ch/?start=1085764602&count=1)
   blog posting in which is gives some more detail about the rationale
   behind the Web Applications 1.0 spec:
@@ -445,7 +445,7 @@
 
 - [Video conferencing and peer-to-peer communication](http://html5.org/tools/web-apps-tracker?from=5944&to=5945)
   section added to the WHATWG HTML spec by Ian Hickson.
-  
+
   [Announced on the WHATWG mailing list](http://lists.w3.org/Archives/Public/public-whatwg-archive/2011Mar/0238.html),
   this new section of the HTML spec introduces the `getUserMedia` method,
   `PeerConnection` interface, and `MediaStream` interface (initially just
