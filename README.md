@@ -106,7 +106,7 @@
   by David Heinemeier Hansson. Among other things, it becomes notable as
   one of the first server-side Web-application development frameworks that
   provide specific support for XHR-driven Web applications (what will in
-  2005 start to referred to as "Ajax" applications).
+  2005 start to be referred to as "Ajax" applications).
 
 - [Opera begins to ship pre-installed on some mobile devices](http://www.kddi.com/english/corporate/news_release/2004/1006/),
   becoming -- three years before the release of iPhone and mobile Safari --
@@ -405,7 +405,7 @@
   I/O"-based, asynchronous callback-driven programming model similar to the
   client-side event-loop-based programming model provided by Web browsers.
 
-- [Geolocation API support ships in i0S 3.0](http://radar.oreilly.com/2009/06/geolocating-your-iphone-users.html),
+- [Geolocation API support ships in iOS 3.0](http://radar.oreilly.com/2009/06/geolocating-your-iphone-users.html),
   making the iPhone the first mobile device with native support for the
   Geolocation API in its browser. (Support for Android devices will ship a
   few months later, in Android 2.0).
