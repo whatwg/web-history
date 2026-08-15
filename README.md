@@ -48,7 +48,7 @@
 
   In the following month, Hickson writes a related
   [Backwards Compatibility](http://ln.hixie.ch/?start=1085764602&count=1)
-  blog posting in which is gives some more detail about the rationale
+  blog posting in which he gives some more detail about the rationale
   behind the Web Applications 1.0 spec:
 
   > Authors still want to write Web applications, and the currently
@@ -365,7 +365,7 @@
   with WebKit as its browser engine, and notable for being the first
   release version of a browser to ship with a JIT-based JavaScript engine,
   V8, which provides greatly improved JavaScript performance on par with
-  Mozilla's TraceMonkey (which had been released to developers less that a
+  Mozilla's TraceMonkey (which had been released to developers less than a
   month earlier).
 
 - [WebKit announces SquirrelFish Extreme](https://www.webkit.org/blog/214/introducing-squirrelfish-extreme/),
